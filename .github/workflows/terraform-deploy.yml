@@ -1,0 +1,215 @@
+name: Terraform Deploy
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths: [ 'infrastructure/**' ]
+  pull_request:
+    branches: [ main ]
+    paths: [ 'infrastructure/**' ]
+
+env:
+  AZURE_CLIENT_ID: ${{ secrets.AZURE_CLIENT_ID }}
+  AZURE_CLIENT_SECRET: ${{ secrets.AZURE_CLIENT_SECRET }}
+  AZURE_TENANT_ID: ${{ secrets.AZURE_TENANT_ID }}
+  AZURE_SUBSCRIPTION_ID: ${{ secrets.AZURE_SUBSCRIPTION_ID }}
+
+jobs:
+  terraform-plan:
+    name: Terraform Plan
+    runs-on: ubuntu-latest
+    environment: ${{ github.ref == 'refs/heads/main' && 'production' || 'development' }}
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v3
+      with:
+        terraform_version: 1.5.0
+
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: |
+          {
+            "clientId": "${{ env.AZURE_CLIENT_ID }}",
+            "clientSecret": "${{ env.AZURE_CLIENT_SECRET }}",
+            "subscriptionId": "${{ env.AZURE_SUBSCRIPTION_ID }}",
+            "tenantId": "${{ env.AZURE_TENANT_ID }}"
+          }
+
+    - name: Terraform Init
+      run: |
+        cd infrastructure
+        terraform init \
+          -backend-config="resource_group_name=rg-tfstate-bosch-platform" \
+          -backend-config="storage_account_name=sttfstatebosch001" \
+          -backend-config="container_name=tfstate" \
+          -backend-config="key=platform/infra.tfstate" \
+          -backend-config="use_azuread_auth=true"
+
+    - name: Terraform Validate
+      run: |
+        cd infrastructure
+        terraform validate
+
+    - name: Terraform Format Check
+      run: |
+        cd infrastructure
+        terraform fmt -check
+
+    - name: Terraform Plan
+      run: |
+        cd infrastructure
+        if [ "${{ github.ref }}" == "refs/heads/main" ]; then
+          terraform plan -var-file="environments/prod.tfvars" -out=tfplan
+        elif [ "${{ github.ref }}" == "refs/heads/develop" ]; then
+          terraform plan -var-file="environments/staging.tfvars" -out=tfplan
+        else
+          terraform plan -var-file="environments/dev.tfvars" -out=tfplan
+        fi
+
+    - name: Upload Terraform Plan
+      uses: actions/upload-artifact@v3
+      with:
+        name: terraform-plan
+        path: infrastructure/tfplan
+
+  terraform-apply:
+    name: Terraform Apply
+    runs-on: ubuntu-latest
+    needs: terraform-plan
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/develop'
+    environment: ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Terraform
+      uses: hashicorp/setup-terraform@v3
+      with:
+        terraform_version: 1.5.0
+
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: |
+          {
+            "clientId": "${{ env.AZURE_CLIENT_ID }}",
+            "clientSecret": "${{ env.AZURE_CLIENT_SECRET }}",
+            "subscriptionId": "${{ env.AZURE_SUBSCRIPTION_ID }}",
+            "tenantId": "${{ env.AZURE_TENANT_ID }}"
+          }
+
+    - name: Download Terraform Plan
+      uses: actions/download-artifact@v3
+      with:
+        name: terraform-plan
+        path: infrastructure
+
+    - name: Terraform Init
+      run: |
+        cd infrastructure
+        terraform init \
+          -backend-config="resource_group_name=rg-tfstate-bosch-platform" \
+          -backend-config="storage_account_name=sttfstatebosch001" \
+          -backend-config="container_name=tfstate" \
+          -backend-config="key=platform/infra.tfstate" \
+          -backend-config="use_azuread_auth=true"
+
+    - name: Terraform Apply
+      run: |
+        cd infrastructure
+        terraform apply -auto-approve tfplan
+
+    - name: Terraform Output
+      run: |
+        cd infrastructure
+        terraform output -json > terraform-outputs.json
+
+    - name: Upload Terraform Outputs
+      uses: actions/upload-artifact@v3
+      with:
+        name: terraform-outputs
+        path: infrastructure/terraform-outputs.json
+
+  security-scan:
+    name: Security Scan
+    runs-on: ubuntu-latest
+    needs: terraform-plan
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Run Trivy vulnerability scanner
+      uses: aquasecurity/trivy-action@master
+      with:
+        scan-type: 'fs'
+        scan-ref: '.'
+        format: 'sarif'
+        output: 'trivy-results.sarif'
+
+    - name: Upload Trivy scan results to GitHub Security tab
+      uses: github/codeql-action/upload-sarif@v2
+      if: always()
+      with:
+        sarif_file: 'trivy-results.sarif'
+
+    - name: Run Checkov security scan
+      uses: bridgecrewio/checkov-action@master
+      with:
+        directory: infrastructure
+        framework: terraform
+        output_format: sarif
+        output_file_path: checkov-results.sarif
+
+    - name: Upload Checkov scan results
+      uses: github/codeql-action/upload-sarif@v2
+      if: always()
+      with:
+        sarif_file: 'checkov-results.sarif'
+
+  cost-analysis:
+    name: Cost Analysis
+    runs-on: ubuntu-latest
+    needs: terraform-apply
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/develop'
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: |
+          {
+            "clientId": "${{ env.AZURE_CLIENT_ID }}",
+            "clientSecret": "${{ env.AZURE_CLIENT_SECRET }}",
+            "subscriptionId": "${{ env.AZURE_SUBSCRIPTION_ID }}",
+            "tenantId": "${{ env.AZURE_TENANT_ID }}"
+          }
+
+    - name: Run Infracost
+      uses: infracost/infracost@v0.10
+      with:
+        api_key: ${{ secrets.INFRACOST_API_KEY }}
+        path: infrastructure
+        terraform_plan_flags: |
+          -var-file="environments/${{ github.ref == 'refs/heads/main' && 'prod' || 'staging' }}.tfvars"
+        format: table
+        output: infracost.txt
+
+    - name: Comment on PR
+      uses: infracost/infracost@v0.10
+      with:
+        api_key: ${{ secrets.INFRACOST_API_KEY }}
+        path: infrastructure
+        terraform_plan_flags: |
+          -var-file="environments/${{ github.ref == 'refs/heads/main' && 'prod' || 'staging' }}.tfvars"
+        format: github-comment
+        github-token: ${{ secrets.GITHUB_TOKEN }}
