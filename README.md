@@ -96,6 +96,80 @@ Comprehensive monitoring includes:
 - Security events and compliance violations
 - Cost optimization and resource utilization
 
+## Azure Resources
+
+### Resource Groups
+- **rg-bosch-dev**: Main development environment (West Europe)
+- **rg-tfstate-bosch-platform**: Terraform state storage (West Europe)
+- **rg-databricks-bosch-dev**: Databricks managed resources (West Europe)
+- **databricks-rg-dbw-bosch-dev-wx28ne9m23i93**: Databricks workspace resources (West Europe)
+- **synapseworkspace-managedrg-e16ed22f-585c-42aa-907a-acca2d8cb0f0**: Synapse managed resources (West Europe)
+
+### Core Services
+
+#### Data Processing & Analytics
+- **Azure Databricks Workspace**: `dbw-bosch-dev`
+  - URL: https://adb-3621103120796221.1.azuredatabricks.net
+  - SKU: Premium
+  - Status: Succeeded
+- **Azure Synapse Analytics**: `synapse-bosch-dev`
+  - Web URL: https://web.azuresynapse.net?workspace=%2fsubscriptions%2f63f441c1-d433-44d4-928a-2f0809824555%2fresourceGroups%2frg-bosch-dev%2fproviders%2fMicrosoft.Synapse%2fworkspaces%2fsynapse-bosch-dev
+  - SQL Endpoint: synapse-bosch-dev.sql.azuresynapse.net
+  - Status: Succeeded
+- **Azure Data Factory**: `adf-bosch-dev-001`
+  - Status: Active
+
+#### Data Storage
+- **Data Lake Storage**: `stdatalakeboschdev`
+  - Containers: bronze, silver, gold, raw, processed, machine-learning, backup
+- **Logs Storage**: `stlogsboschdev`
+- **Terraform State Storage**: `sttfstateboschdev`
+
+#### Security & Identity
+- **Azure Key Vault**: `kv-bosch-dev`
+- **User Assigned Identity**: `id-databricks-bosch-dev`
+- **Unity Catalog Access Connector**: `dac-unity-bosch-dev`
+
+#### Networking
+- **Virtual Network**: `vnet-bosch-dev`
+- **Private Endpoints**: 
+  - Databricks: `pe-databricks-bosch-dev`
+  - Data Factory: `pe-data-factory-bosch-dev`
+  - Data Lake: `pe-blob-bosch-dev`, `pe-dfs-bosch-dev`
+- **Network Security Groups**: 
+  - Databricks: `nsg-databricks-private-bosch-dev`, `nsg-databricks-public-bosch-dev`
+  - Synapse: `nsg-synapse-bosch-dev`
+  - Data Factory: `nsg-data-factory-bosch-dev`
+
+#### Monitoring & Observability
+- **Log Analytics Workspace**: `law-bosch-dev`
+- **Application Insights**: `ai-bosch-dev`
+- **Action Groups**: 
+  - Critical: `ag-critical-bosch-dev`
+  - Warning: `ag-warning-bosch-dev`
+  - Info: `ag-info-bosch-dev`
+
+### Access Information
+
+#### Databricks Workspace
+- **URL**: https://adb-3621103120796221.1.azuredatabricks.net
+- **Authentication**: Azure AD SSO
+- **Note**: Requires workspace-level permissions to be granted by administrator
+
+#### Synapse Analytics
+- **Web URL**: https://web.azuresynapse.net?workspace=%2fsubscriptions%2f63f441c1-d433-44d4-928a-2f0809824555%2fresourceGroups%2frg-bosch-dev%2fproviders%2fMicrosoft.Synapse%2fworkspaces%2fsynapse-bosch-dev
+- **SQL Endpoint**: synapse-bosch-dev.sql.azuresynapse.net
+- **Authentication**: Azure AD SSO
+
+#### Data Factory
+- **Portal URL**: https://portal.azure.com/#@samuelbeurandevopshotmail.onmicrosoft.com/resource/subscriptions/63f441c1-d433-44d4-928a-2f0809824555/resourceGroups/rg-bosch-dev/providers/Microsoft.DataFactory/factories/adf-bosch-dev-001
+- **Authentication**: Azure AD SSO
+
+#### Data Lake Storage
+- **Storage Account**: stdatalakeboschdev
+- **Access**: Via Azure Portal or Azure Storage Explorer
+- **Authentication**: Azure AD SSO
+
 ## Contributing
 
 Please follow the established coding standards and security practices when contributing to this project.

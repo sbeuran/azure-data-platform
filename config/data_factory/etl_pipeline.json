@@ -1,0 +1,35 @@
+{
+  "name": "SupplyChainETL",
+  "activities": [
+    {
+      "name": "CopyFromBronzeToSilver",
+      "type": "Copy",
+      "inputs": [
+        {
+          "referenceName": "BronzeZoneDataset",
+          "type": "DatasetReference"
+        }
+      ],
+      "outputs": [
+        {
+          "referenceName": "SilverZoneDataset",
+          "type": "DatasetReference"
+        }
+      ],
+      "typeProperties": {
+        "source": {
+          "type": "DelimitedTextSource",
+          "storeSettings": {
+            "type": "AzureBlobFSReadSettings"
+          }
+        },
+        "sink": {
+          "type": "DelimitedTextSink",
+          "storeSettings": {
+            "type": "AzureBlobFSWriteSettings"
+          }
+        }
+      }
+    }
+  ]
+}

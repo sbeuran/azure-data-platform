@@ -1,0 +1,11 @@
+{
+  "name": "AzureDataLakeStorageGen2",
+  "type": "AzureBlobFS",
+  "typeProperties": {
+    "url": "https://stdatalakeboschdev.dfs.core.windows.net/",
+    "accountKey": {
+      "type": "SecureString",
+      "value": "{{KeyVaultSecret}}"
+    }
+  }
+}

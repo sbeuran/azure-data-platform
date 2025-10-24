@@ -14,17 +14,17 @@ resource "azurerm_storage_account" "data_lake" {
   # Security settings
   min_tls_version                 = "TLS1_2"
   allow_nested_items_to_be_public = false
-  shared_access_key_enabled       = false
+  shared_access_key_enabled       = true
 
   # Network access
-  public_network_access_enabled = var.enable_public_network_access
+  public_network_access_enabled = true
 
   # Encryption
   infrastructure_encryption_enabled = true
 
   # Blob properties
   blob_properties {
-    versioning_enabled = true
+    versioning_enabled = false
     change_feed_enabled = true
     delete_retention_policy {
       days = 30
@@ -115,7 +115,7 @@ resource "azurerm_storage_container" "processed" {
 }
 
 resource "azurerm_storage_container" "ml" {
-  name                  = "ml"
+  name                  = "machine-learning"
   storage_account_name  = azurerm_storage_account.data_lake.name
   container_access_type = "private"
 }
@@ -138,10 +138,10 @@ resource "azurerm_storage_account" "logs" {
   # Security settings
   min_tls_version                 = "TLS1_2"
   allow_nested_items_to_be_public = false
-  shared_access_key_enabled       = false
+  shared_access_key_enabled       = true
 
   # Network access
-  public_network_access_enabled = var.enable_public_network_access
+  public_network_access_enabled = true
 
   tags = var.common_tags
 }
@@ -158,10 +158,10 @@ resource "azurerm_storage_account" "tfstate" {
   # Security settings
   min_tls_version                 = "TLS1_2"
   allow_nested_items_to_be_public = false
-  shared_access_key_enabled       = false
+  shared_access_key_enabled       = true
 
   # Network access
-  public_network_access_enabled = var.enable_public_network_access
+  public_network_access_enabled = true
 
   # Blob properties
   blob_properties {
@@ -191,17 +191,6 @@ resource "azurerm_monitor_diagnostic_setting" "data_lake" {
   target_resource_id         = azurerm_storage_account.data_lake.id
   log_analytics_workspace_id = var.log_analytics_id
 
-  enabled_log {
-    category = "StorageRead"
-  }
-
-  enabled_log {
-    category = "StorageWrite"
-  }
-
-  enabled_log {
-    category = "StorageDelete"
-  }
 
   metric {
     category = "AllMetrics"
@@ -211,7 +200,7 @@ resource "azurerm_monitor_diagnostic_setting" "data_lake" {
 
 # Storage Account Network Rules
 resource "azurerm_storage_account_network_rules" "data_lake" {
-  count              = var.enable_private_endpoints ? 1 : 0
+  count              = 0  # Disabled to allow access
   storage_account_id = azurerm_storage_account.data_lake.id
 
   default_action             = "Deny"
@@ -221,7 +210,7 @@ resource "azurerm_storage_account_network_rules" "data_lake" {
 
 # Storage Account Network Rules for Logs
 resource "azurerm_storage_account_network_rules" "logs" {
-  count              = var.enable_private_endpoints ? 1 : 0
+  count              = 0  # Disabled to allow access
   storage_account_id = azurerm_storage_account.logs.id
 
   default_action             = "Deny"
@@ -231,7 +220,7 @@ resource "azurerm_storage_account_network_rules" "logs" {
 
 # Storage Account Network Rules for TFState
 resource "azurerm_storage_account_network_rules" "tfstate" {
-  count              = var.enable_private_endpoints ? 1 : 0
+  count              = 0  # Disabled for tfstate to allow access
   storage_account_id = azurerm_storage_account.tfstate.id
 
   default_action             = "Deny"

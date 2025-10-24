@@ -1,0 +1,20 @@
+{
+  "name": "Bosch Supply Chain Platform Dashboard",
+  "widgets": [
+    {
+      "type": "Chart",
+      "title": "Data Lake Storage Usage",
+      "query": "StorageAccount | where ResourceId contains 'stdatalakeboschdev'"
+    },
+    {
+      "type": "Chart",
+      "title": "Databricks Cluster Status",
+      "query": "DatabricksWorkspace | where ResourceId contains 'dbw-bosch-dev'"
+    },
+    {
+      "type": "Chart",
+      "title": "Data Factory Pipeline Runs",
+      "query": "DataFactory | where ResourceId contains 'adf-bosch-dev-001'"
+    }
+  ]
+}

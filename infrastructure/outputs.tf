@@ -132,7 +132,7 @@ output "data_factory_name" {
 
 output "data_factory_identity" {
   description = "Managed identity of the Data Factory"
-  value       = module.data_factory.managed_identity
+  value       = module.data_factory.data_factory_identity
 }
 
 # Synapse
@@ -157,14 +157,14 @@ output "synapse_sql_pool_name" {
 }
 
 # Monitoring
-output "monitoring_dashboard_url" {
-  description = "URL of the monitoring dashboard"
-  value       = module.monitoring.dashboard_url
+output "monitoring_dashboard_id" {
+  description = "ID of the monitoring dashboard"
+  value       = module.monitoring.dashboard_id
 }
 
-output "monitoring_alert_rules" {
-  description = "List of monitoring alert rules"
-  value       = module.monitoring.alert_rules
+output "monitoring_alerts" {
+  description = "Alert rules for monitoring"
+  value       = module.monitoring.alerts
 }
 
 # Common Tags

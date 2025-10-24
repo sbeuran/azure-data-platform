@@ -1,0 +1,5 @@
+{
+  "catalog_name": "bosch_supply_chain",
+  "storage_root": "abfss://bronze@stdatalakeboschdev.dfs.core.windows.net/",
+  "managed_identity": "id-databricks-bosch-dev"
+}

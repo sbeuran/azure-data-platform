@@ -198,15 +198,7 @@ resource "azurerm_subnet" "data_factory" {
   virtual_network_name = azurerm_virtual_network.main.name
   address_prefixes     = [var.data_factory_subnet_cidr]
 
-  delegation {
-    name = "data-factory"
-    service_delegation {
-      name = "Microsoft.DataFactory/factories"
-      actions = [
-        "Microsoft.Network/virtualNetworks/subnets/join/action"
-      ]
-    }
-  }
+  # Note: Data Factory doesn't require subnet delegation
 }
 
 # Synapse Subnet

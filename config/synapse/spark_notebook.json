@@ -1,0 +1,25 @@
+{
+  "name": "SupplyChainML",
+  "language": "python",
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "# Supply Chain Machine Learning Pipeline",
+        "from pyspark.sql import SparkSession",
+        "from pyspark.ml import Pipeline",
+        "from pyspark.ml.feature import VectorAssembler",
+        "from pyspark.ml.regression import RandomForestRegressor",
+        "",
+        "# Initialize Spark session",
+        "spark = SparkSession.builder.appName('SupplyChainML').getOrCreate()",
+        "",
+        "# Load data from Data Lake",
+        "df = spark.read.format('delta').load('abfss://bronze@stdatalakeboschdev.dfs.core.windows.net/sample-data/')",
+        "",
+        "# Display data",
+        "df.show()"
+      ]
+    }
+  ]
+}

@@ -18,13 +18,14 @@ terraform {
     }
   }
 
-  backend "azurerm" {
-    resource_group_name  = "rg-tfstate-bosch-platform"
-    storage_account_name = "sttfstatebosch001"
-    container_name       = "tfstate"
-    key                  = "platform/infra.tfstate"
-    use_azuread_auth     = true
-  }
+  # Using local state for initial deployment
+  # backend "azurerm" {
+  #   resource_group_name  = "rg-tfstate-bosch-platform"
+  #   storage_account_name = "sttfstatebosch001"
+  #   container_name       = "tfstate"
+  #   key                  = "platform/infra.tfstate"
+  #   use_azuread_auth     = true
+  # }
 }
 
 # Configure the Azure Provider
@@ -46,12 +47,12 @@ data "azurerm_client_config" "current" {}
 # Local variables
 locals {
   # Naming convention
-  project_name = "bosch-supply-chain"
+  project_name = "bosch"
   environment   = var.environment
   
   # Common tags
   common_tags = {
-    Project     = local.project_name
+    Project     = "bosch-supply-chain"
     Environment = local.environment
     Owner       = "Data Engineering Team"
     CostCenter  = "IT-DataPlatform"
@@ -190,6 +191,9 @@ module "data_lake" {
   environment        = local.environment
   common_tags        = local.common_tags
   
+  log_analytics_id   = azurerm_log_analytics_workspace.main.id
+  private_endpoint_subnet_id = module.network.data_factory_subnet_id
+  
   depends_on = [module.network]
 }
 
@@ -204,9 +208,11 @@ module "databricks" {
   common_tags        = local.common_tags
   
   vnet_id            = module.network.vnet_id
-  private_subnet_id   = module.network.databricks_private_subnet_id
-  public_subnet_id    = module.network.databricks_public_subnet_id
+  databricks_private_nsg_id = module.network.databricks_private_nsg_id
+  databricks_public_nsg_id = module.network.databricks_public_nsg_id
+  private_endpoint_subnet_id = module.network.data_factory_subnet_id
   key_vault_id        = azurerm_key_vault.main.id
+  data_lake_storage_account_id = module.data_lake.storage_account_id
   log_analytics_id    = azurerm_log_analytics_workspace.main.id
   
   depends_on = [module.data_lake]
@@ -222,7 +228,7 @@ module "data_factory" {
   environment        = local.environment
   common_tags        = local.common_tags
   
-  key_vault_id       = azurerm_key_vault.main.id
+  data_factory_subnet_id = module.network.data_factory_subnet_id
   log_analytics_id   = azurerm_log_analytics_workspace.main.id
   
   depends_on = [module.databricks]
@@ -240,7 +246,9 @@ module "synapse" {
   
   key_vault_id       = azurerm_key_vault.main.id
   log_analytics_id   = azurerm_log_analytics_workspace.main.id
-  data_lake_id       = module.data_lake.storage_account_id
+  data_lake_storage_account_id = module.data_lake.storage_account_id
+  synapse_sql_administrator_password = "BoschSupplyChain2024!"
+  synapse_subnet_id = module.network.synapse_subnet_id
   
   depends_on = [module.data_factory]
 }
@@ -255,8 +263,13 @@ module "monitoring" {
   environment        = local.environment
   common_tags        = local.common_tags
   
+  resource_group_id  = azurerm_resource_group.main.id
   log_analytics_id   = azurerm_log_analytics_workspace.main.id
   application_insights_id = azurerm_application_insights.main.id
+  
+  critical_alert_email = "samuel.beuran98@gmail.com"
+  warning_alert_email = "samuel.beuran98@gmail.com"
+  info_alert_email = "samuel.beuran98@gmail.com"
   
   depends_on = [module.synapse]
 }

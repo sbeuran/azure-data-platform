@@ -1,0 +1,23 @@
+{
+  "data_lake_storage_alert": {
+    "name": "Data Lake Storage Usage Alert",
+    "description": "Alert when Data Lake storage usage exceeds 80%",
+    "severity": "Warning",
+    "condition": "Storage usage > 80%",
+    "action_group": "ag-warning-bosch-dev"
+  },
+  "databricks_cluster_alert": {
+    "name": "Databricks Cluster Failure Alert",
+    "description": "Alert when Databricks cluster fails to start",
+    "severity": "Critical",
+    "condition": "Cluster state = Failed",
+    "action_group": "ag-critical-bosch-dev"
+  },
+  "data_factory_pipeline_alert": {
+    "name": "Data Factory Pipeline Failure Alert",
+    "description": "Alert when Data Factory pipeline fails",
+    "severity": "Critical",
+    "condition": "Pipeline run status = Failed",
+    "action_group": "ag-critical-bosch-dev"
+  }
+}

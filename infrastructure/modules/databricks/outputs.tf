@@ -35,22 +35,5 @@ output "private_endpoint_id" {
   value       = var.enable_private_endpoints ? azurerm_private_endpoint.databricks[0].id : null
 }
 
-output "cluster_policy_id" {
-  description = "ID of the Databricks cluster policy"
-  value       = databricks_cluster_policy.supply_chain_policy.id
-}
-
-output "instance_pool_id" {
-  description = "ID of the Databricks instance pool"
-  value       = databricks_instance_pool.supply_chain_pool.id
-}
-
-output "etl_job_id" {
-  description = "ID of the supply chain ETL job"
-  value       = databricks_job.supply_chain_etl.id
-}
-
-output "ml_job_id" {
-  description = "ID of the supply chain ML job"
-  value       = databricks_job.supply_chain_ml.id
-}
+# Note: Databricks cluster policies, instance pools, and jobs will be configured
+# through the Databricks workspace UI after the infrastructure is deployed

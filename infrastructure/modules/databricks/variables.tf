@@ -29,7 +29,7 @@ variable "common_tags" {
 variable "databricks_sku" {
   description = "Databricks workspace SKU"
   type        = string
-  default     = "standard"
+  default     = "premium"
   
   validation {
     condition     = contains(["standard", "premium"], var.databricks_sku)

@@ -1,0 +1,11 @@
+{
+  "name": "AzureDatabricks",
+  "type": "AzureDatabricks",
+  "typeProperties": {
+    "domain": "https://adb-927117708645190.10.azuredatabricks.net",
+    "accessToken": {
+      "type": "SecureString",
+      "value": "{{KeyVaultSecret}}"
+    }
+  }
+}
