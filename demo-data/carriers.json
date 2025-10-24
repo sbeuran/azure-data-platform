@@ -1,0 +1,57 @@
+[
+  {
+    "carrier_id": "DHL",
+    "carrier_name": "DHL Express",
+    "carrier_type": "Express",
+    "contact_info": {
+      "phone": "+49-30-12345678",
+      "email": "contact@dhl.com"
+    },
+    "service_level": "Express",
+    "reliability_score": 0.95
+  },
+  {
+    "carrier_id": "FedEx",
+    "carrier_name": "FedEx Corporation",
+    "carrier_type": "Express",
+    "contact_info": {
+      "phone": "+49-30-87654321",
+      "email": "contact@fedex.com"
+    },
+    "service_level": "Express",
+    "reliability_score": 0.92
+  },
+  {
+    "carrier_id": "UPS",
+    "carrier_name": "United Parcel Service",
+    "carrier_type": "Standard",
+    "contact_info": {
+      "phone": "+49-30-11223344",
+      "email": "contact@ups.com"
+    },
+    "service_level": "Standard",
+    "reliability_score": 0.88
+  },
+  {
+    "carrier_id": "TNT",
+    "carrier_name": "TNT Express",
+    "carrier_type": "Economy",
+    "contact_info": {
+      "phone": "+49-30-55667788",
+      "email": "contact@tnt.com"
+    },
+    "service_level": "Economy",
+    "reliability_score": 0.85
+  },
+  {
+    "carrier_id": "DPD",
+    "carrier_name": "DPD Group",
+    "carrier_type": "Standard",
+    "contact_info": {
+      "phone": "+49-30-99887766",
+      "email": "contact@dpd.com"
+    },
+    "service_level": "Standard",
+    "reliability_score": 0.9
+  }
+]

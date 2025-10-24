@@ -1,0 +1,5102 @@
+[
+  {
+    "shipment_id": "5e7c4084-23e8-4d4d-bb96-52ee069917b4",
+    "order_id": "ORD-000169",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK510691305",
+    "weight": 18.44,
+    "dimensions": {
+      "length": 51.79,
+      "width": 80.32,
+      "height": 5.27
+    }
+  },
+  {
+    "shipment_id": "331ca1ad-7bd2-4272-82ed-31cc68d3a820",
+    "order_id": "ORD-000144",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-08",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-18",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK714591335",
+    "weight": 24.04,
+    "dimensions": {
+      "length": 174.8,
+      "width": 37.14,
+      "height": 15.67
+    }
+  },
+  {
+    "shipment_id": "36b56e2e-1084-43bd-b8aa-2765651038fe",
+    "order_id": "ORD-000108",
+    "carrier_id": "DPD",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-26",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK750429612",
+    "weight": 21.33,
+    "dimensions": {
+      "length": 65.99,
+      "width": 38.6,
+      "height": 32.26
+    }
+  },
+  {
+    "shipment_id": "8ac6c21d-4fe4-4b8e-9e1f-d0c2c497baa8",
+    "order_id": "ORD-000086",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-22",
+    "estimated_delivery_date": "2025-10-05",
+    "actual_delivery_date": "2025-10-07",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK855691766",
+    "weight": 83.21,
+    "dimensions": {
+      "length": 74.66,
+      "width": 19.86,
+      "height": 16.84
+    }
+  },
+  {
+    "shipment_id": "b92953ec-c670-4ce3-92a3-8973dfcac379",
+    "order_id": "ORD-000453",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-14",
+    "estimated_delivery_date": "2025-09-16",
+    "actual_delivery_date": "2025-09-19",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK976913992",
+    "weight": 95.9,
+    "dimensions": {
+      "length": 87.87,
+      "width": 56.05,
+      "height": 42.23
+    }
+  },
+  {
+    "shipment_id": "ee29cb4e-314c-43fd-aa88-fa5c0c681776",
+    "order_id": "ORD-000026",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": "2025-09-02",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK781146815",
+    "weight": 4.1,
+    "dimensions": {
+      "length": 14.78,
+      "width": 20.49,
+      "height": 47.59
+    }
+  },
+  {
+    "shipment_id": "2c1e94c5-85fb-4bbe-ba93-52845c5a5e9a",
+    "order_id": "ORD-000214",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-07",
+    "estimated_delivery_date": "2025-10-09",
+    "actual_delivery_date": "2025-10-10",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK761318973",
+    "weight": 54.25,
+    "dimensions": {
+      "length": 28.62,
+      "width": 59.9,
+      "height": 32.88
+    }
+  },
+  {
+    "shipment_id": "b5c12212-34e8-4754-a02f-ccc58d06f451",
+    "order_id": "ORD-000303",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-16",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK474075902",
+    "weight": 61.28,
+    "dimensions": {
+      "length": 162.65,
+      "width": 93.12,
+      "height": 18.17
+    }
+  },
+  {
+    "shipment_id": "a08a52f5-723d-4808-a2d2-a6cb4648a014",
+    "order_id": "ORD-000487",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-11-01",
+    "actual_delivery_date": "2025-11-04",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK317262260",
+    "weight": 74.03,
+    "dimensions": {
+      "length": 184.43,
+      "width": 92.28,
+      "height": 13.65
+    }
+  },
+  {
+    "shipment_id": "f8b51b4e-85bc-4c2e-b4e2-6449575d6670",
+    "order_id": "ORD-000316",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-13",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK556298654",
+    "weight": 5.81,
+    "dimensions": {
+      "length": 21.47,
+      "width": 35.42,
+      "height": 46.05
+    }
+  },
+  {
+    "shipment_id": "4351a68e-2496-4be9-ba18-bd688470df65",
+    "order_id": "ORD-000180",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-10-07",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK740223776",
+    "weight": 73.68,
+    "dimensions": {
+      "length": 29.96,
+      "width": 26.53,
+      "height": 10.47
+    }
+  },
+  {
+    "shipment_id": "1d1e90aa-ffdd-4913-973d-45b84213d946",
+    "order_id": "ORD-000236",
+    "carrier_id": "DPD",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-23",
+    "actual_delivery_date": "2025-10-26",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK623860376",
+    "weight": 44.71,
+    "dimensions": {
+      "length": 193.35,
+      "width": 63.63,
+      "height": 41.64
+    }
+  },
+  {
+    "shipment_id": "fdd1531f-7e15-403d-9399-57b76e6a7147",
+    "order_id": "ORD-000279",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-01",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": "2025-10-06",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK914029410",
+    "weight": 90.72,
+    "dimensions": {
+      "length": 139.62,
+      "width": 33.85,
+      "height": 19.57
+    }
+  },
+  {
+    "shipment_id": "025a216a-07b2-4512-a6a4-435a9cda2c85",
+    "order_id": "ORD-000365",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": "2025-10-06",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK319616766",
+    "weight": 40.81,
+    "dimensions": {
+      "length": 84.88,
+      "width": 90.4,
+      "height": 5.65
+    }
+  },
+  {
+    "shipment_id": "94a51680-8e84-4df4-853b-b313eb00e4b6",
+    "order_id": "ORD-000347",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-11",
+    "estimated_delivery_date": "2025-10-18",
+    "actual_delivery_date": "2025-10-22",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK720069990",
+    "weight": 47.78,
+    "dimensions": {
+      "length": 174.38,
+      "width": 71.61,
+      "height": 7.85
+    }
+  },
+  {
+    "shipment_id": "77d1eb80-8189-42fb-8ef4-94af57bbbea9",
+    "order_id": "ORD-000050",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-09-27",
+    "actual_delivery_date": "2025-09-30",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK911897730",
+    "weight": 44.61,
+    "dimensions": {
+      "length": 157.88,
+      "width": 92.95,
+      "height": 43.55
+    }
+  },
+  {
+    "shipment_id": "eaf8af4d-3409-4138-ae6b-a87fc3dab78f",
+    "order_id": "ORD-000412",
+    "carrier_id": "FedEx",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-26",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK202393255",
+    "weight": 11.92,
+    "dimensions": {
+      "length": 30.3,
+      "width": 51.16,
+      "height": 30.69
+    }
+  },
+  {
+    "shipment_id": "7fd926a1-af3e-4489-bc6b-d8c151c9ec05",
+    "order_id": "ORD-000426",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-27",
+    "actual_delivery_date": "2025-10-30",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK651499404",
+    "weight": 34.75,
+    "dimensions": {
+      "length": 149.96,
+      "width": 12.71,
+      "height": 16.51
+    }
+  },
+  {
+    "shipment_id": "8582efe4-f207-46d5-835b-c2745f00c61b",
+    "order_id": "ORD-000262",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-07",
+    "estimated_delivery_date": "2025-10-12",
+    "actual_delivery_date": "2025-10-10",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK213087369",
+    "weight": 37.43,
+    "dimensions": {
+      "length": 23.21,
+      "width": 90.98,
+      "height": 48.39
+    }
+  },
+  {
+    "shipment_id": "e19dbcde-736c-4695-bb27-53fedbebb6a3",
+    "order_id": "ORD-000197",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-19",
+    "estimated_delivery_date": "2025-10-02",
+    "actual_delivery_date": "2025-10-01",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK736741913",
+    "weight": 66.55,
+    "dimensions": {
+      "length": 107.3,
+      "width": 55.92,
+      "height": 14.53
+    }
+  },
+  {
+    "shipment_id": "22004417-8782-4bc6-a475-d84483d5b278",
+    "order_id": "ORD-000186",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-09",
+    "estimated_delivery_date": "2025-10-21",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK257298352",
+    "weight": 57.33,
+    "dimensions": {
+      "length": 196.49,
+      "width": 66.21,
+      "height": 35.38
+    }
+  },
+  {
+    "shipment_id": "8baaff8b-dd15-4eb5-b9f1-7149352bfa92",
+    "order_id": "ORD-000380",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-23",
+    "estimated_delivery_date": "2025-11-03",
+    "actual_delivery_date": "2025-11-04",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK974895586",
+    "weight": 60.79,
+    "dimensions": {
+      "length": 100.17,
+      "width": 59.09,
+      "height": 24.06
+    }
+  },
+  {
+    "shipment_id": "0c15d59d-7254-4b0c-80a6-ed1869e3d9d8",
+    "order_id": "ORD-000222",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-26",
+    "estimated_delivery_date": "2025-09-06",
+    "actual_delivery_date": "2025-09-04",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK733318334",
+    "weight": 7.12,
+    "dimensions": {
+      "length": 70.02,
+      "width": 88.9,
+      "height": 21.31
+    }
+  },
+  {
+    "shipment_id": "9238808c-83bf-4685-83a2-1daf722aa561",
+    "order_id": "ORD-000148",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-02",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK820187053",
+    "weight": 92.53,
+    "dimensions": {
+      "length": 110.65,
+      "width": 85.64,
+      "height": 44.89
+    }
+  },
+  {
+    "shipment_id": "fe8100de-728a-4e74-bfd2-152f68517657",
+    "order_id": "ORD-000258",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-08-28",
+    "actual_delivery_date": "2025-08-27",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK210425320",
+    "weight": 18.02,
+    "dimensions": {
+      "length": 174.51,
+      "width": 36.25,
+      "height": 18.01
+    }
+  },
+  {
+    "shipment_id": "1c5a0947-9fad-4299-a3f0-d74e52869b67",
+    "order_id": "ORD-000354",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-03",
+    "estimated_delivery_date": "2025-09-12",
+    "actual_delivery_date": "2025-09-17",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK783473461",
+    "weight": 26.64,
+    "dimensions": {
+      "length": 190.15,
+      "width": 89.3,
+      "height": 34.82
+    }
+  },
+  {
+    "shipment_id": "1c6468b5-f5c9-48c4-b76e-07d1e11b45ab",
+    "order_id": "ORD-000363",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-12",
+    "estimated_delivery_date": "2025-09-23",
+    "actual_delivery_date": "2025-09-28",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK634625328",
+    "weight": 9.94,
+    "dimensions": {
+      "length": 182.36,
+      "width": 72.85,
+      "height": 24.49
+    }
+  },
+  {
+    "shipment_id": "e33c5c46-33db-461e-b623-8cfd7354d6b5",
+    "order_id": "ORD-000052",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-03",
+    "estimated_delivery_date": "2025-10-16",
+    "actual_delivery_date": "2025-10-18",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK817199376",
+    "weight": 57.16,
+    "dimensions": {
+      "length": 94.83,
+      "width": 33.58,
+      "height": 32.83
+    }
+  },
+  {
+    "shipment_id": "666c7c06-bf83-4e96-b777-9a07cf52f557",
+    "order_id": "ORD-000182",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-13",
+    "estimated_delivery_date": "2025-09-15",
+    "actual_delivery_date": "2025-09-20",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK487547864",
+    "weight": 88.71,
+    "dimensions": {
+      "length": 115.09,
+      "width": 76.87,
+      "height": 38.25
+    }
+  },
+  {
+    "shipment_id": "a5c38190-bd46-46c0-b094-8796afb3fc26",
+    "order_id": "ORD-000399",
+    "carrier_id": "FedEx",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-17",
+    "estimated_delivery_date": "2025-10-01",
+    "actual_delivery_date": "2025-09-28",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK332312701",
+    "weight": 96.51,
+    "dimensions": {
+      "length": 74.02,
+      "width": 22.26,
+      "height": 21.51
+    }
+  },
+  {
+    "shipment_id": "c66425bc-e775-4af0-a725-82fcaecfc46b",
+    "order_id": "ORD-000118",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-10-02",
+    "actual_delivery_date": "2025-10-01",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK580919047",
+    "weight": 48.14,
+    "dimensions": {
+      "length": 38.12,
+      "width": 61.67,
+      "height": 25.11
+    }
+  },
+  {
+    "shipment_id": "6553988d-2ea2-4536-999a-0dc4eeedaad6",
+    "order_id": "ORD-000212",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-31",
+    "actual_delivery_date": "2025-10-31",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK302052854",
+    "weight": 55.95,
+    "dimensions": {
+      "length": 98.34,
+      "width": 99.12,
+      "height": 40.7
+    }
+  },
+  {
+    "shipment_id": "18907bc5-97e6-4427-8f6e-7ca923644c14",
+    "order_id": "ORD-000103",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-27",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK462316932",
+    "weight": 14.34,
+    "dimensions": {
+      "length": 134.77,
+      "width": 16.88,
+      "height": 17.99
+    }
+  },
+  {
+    "shipment_id": "e5c575a1-6046-4e62-8b4a-640e6b75ad85",
+    "order_id": "ORD-000343",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-20",
+    "estimated_delivery_date": "2025-09-25",
+    "actual_delivery_date": "2025-09-23",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK487899011",
+    "weight": 65.37,
+    "dimensions": {
+      "length": 197.09,
+      "width": 54.48,
+      "height": 36.57
+    }
+  },
+  {
+    "shipment_id": "f70b2687-6377-4038-a214-0ed810077726",
+    "order_id": "ORD-000015",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-01",
+    "estimated_delivery_date": "2025-09-12",
+    "actual_delivery_date": "2025-09-13",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK857526438",
+    "weight": 52.76,
+    "dimensions": {
+      "length": 146.83,
+      "width": 95.05,
+      "height": 22.67
+    }
+  },
+  {
+    "shipment_id": "2e6d8e7d-bc9e-449f-84e9-a2f94f33e005",
+    "order_id": "ORD-000350",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-11-02",
+    "actual_delivery_date": "2025-10-31",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK191981178",
+    "weight": 8.75,
+    "dimensions": {
+      "length": 60.07,
+      "width": 78.35,
+      "height": 12.66
+    }
+  },
+  {
+    "shipment_id": "2a2f87d6-7989-4f19-9941-074537a2b9cf",
+    "order_id": "ORD-000356",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": "2025-10-01",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK735087120",
+    "weight": 80.62,
+    "dimensions": {
+      "length": 181.27,
+      "width": 79.63,
+      "height": 11.68
+    }
+  },
+  {
+    "shipment_id": "5bde915c-190d-4b3d-9d0b-8a1a18bdabd6",
+    "order_id": "ORD-000102",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-12",
+    "actual_delivery_date": "2025-10-17",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK248093709",
+    "weight": 4.42,
+    "dimensions": {
+      "length": 16.04,
+      "width": 21.64,
+      "height": 17.09
+    }
+  },
+  {
+    "shipment_id": "f6d13139-9313-4a50-9f3e-c566fa4caadc",
+    "order_id": "ORD-000279",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-05",
+    "estimated_delivery_date": "2025-09-07",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK819334607",
+    "weight": 38.75,
+    "dimensions": {
+      "length": 40.85,
+      "width": 44.77,
+      "height": 41.54
+    }
+  },
+  {
+    "shipment_id": "edf6d81b-24eb-402f-a05a-62180050c68b",
+    "order_id": "ORD-000199",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-19",
+    "estimated_delivery_date": "2025-09-29",
+    "actual_delivery_date": "2025-10-04",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK266372051",
+    "weight": 22.41,
+    "dimensions": {
+      "length": 72.38,
+      "width": 35.2,
+      "height": 41.76
+    }
+  },
+  {
+    "shipment_id": "2d261070-7585-472b-a8eb-f57fd5d01b32",
+    "order_id": "ORD-000236",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-29",
+    "estimated_delivery_date": "2025-10-10",
+    "actual_delivery_date": "2025-10-13",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK555543096",
+    "weight": 18.88,
+    "dimensions": {
+      "length": 97.01,
+      "width": 10.94,
+      "height": 36.44
+    }
+  },
+  {
+    "shipment_id": "258f7fe5-8896-4cf8-ae3e-2215697db315",
+    "order_id": "ORD-000228",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-26",
+    "estimated_delivery_date": "2025-10-01",
+    "actual_delivery_date": "2025-10-05",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK422564830",
+    "weight": 30.87,
+    "dimensions": {
+      "length": 30.79,
+      "width": 41.2,
+      "height": 25.37
+    }
+  },
+  {
+    "shipment_id": "95b39cd3-5608-4dbf-994a-5c45c040152c",
+    "order_id": "ORD-000146",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-07",
+    "estimated_delivery_date": "2025-10-14",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK744261777",
+    "weight": 78.44,
+    "dimensions": {
+      "length": 113.17,
+      "width": 25.5,
+      "height": 25.72
+    }
+  },
+  {
+    "shipment_id": "327eabc0-0261-49e4-8485-3daf653c1e21",
+    "order_id": "ORD-000417",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-15",
+    "estimated_delivery_date": "2025-10-24",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK374118474",
+    "weight": 93.01,
+    "dimensions": {
+      "length": 155.07,
+      "width": 98.48,
+      "height": 28.32
+    }
+  },
+  {
+    "shipment_id": "41b761b7-da88-4b3d-8fac-9638a51e176a",
+    "order_id": "ORD-000217",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-03",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-21",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK694552880",
+    "weight": 48.55,
+    "dimensions": {
+      "length": 19.62,
+      "width": 69.01,
+      "height": 24.23
+    }
+  },
+  {
+    "shipment_id": "f6485cca-ac17-4ec1-a3e6-b19af2f7adfd",
+    "order_id": "ORD-000215",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-07",
+    "estimated_delivery_date": "2025-10-15",
+    "actual_delivery_date": "2025-10-12",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK263541987",
+    "weight": 58.02,
+    "dimensions": {
+      "length": 45.53,
+      "width": 23.68,
+      "height": 15.63
+    }
+  },
+  {
+    "shipment_id": "5400f499-26db-4b77-beab-9ae467f44876",
+    "order_id": "ORD-000224",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-22",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK950961377",
+    "weight": 17.81,
+    "dimensions": {
+      "length": 82.77,
+      "width": 11.39,
+      "height": 41.29
+    }
+  },
+  {
+    "shipment_id": "9593cd4f-70c3-4edc-a195-625ce56da9d5",
+    "order_id": "ORD-000045",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-08-30",
+    "estimated_delivery_date": "2025-09-12",
+    "actual_delivery_date": "2025-09-16",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK200866936",
+    "weight": 80.4,
+    "dimensions": {
+      "length": 124.27,
+      "width": 23.39,
+      "height": 31.57
+    }
+  },
+  {
+    "shipment_id": "5028f300-683a-4561-9555-0d41d419ce6f",
+    "order_id": "ORD-000106",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-13",
+    "estimated_delivery_date": "2025-10-16",
+    "actual_delivery_date": "2025-10-21",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK813570094",
+    "weight": 28.88,
+    "dimensions": {
+      "length": 76.37,
+      "width": 71.23,
+      "height": 12.2
+    }
+  },
+  {
+    "shipment_id": "056730d2-be6d-48ff-aa66-94267b2e77c0",
+    "order_id": "ORD-000064",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-16",
+    "estimated_delivery_date": "2025-09-18",
+    "actual_delivery_date": "2025-09-17",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK525192523",
+    "weight": 95.05,
+    "dimensions": {
+      "length": 173.69,
+      "width": 25.73,
+      "height": 25.88
+    }
+  },
+  {
+    "shipment_id": "84c5c359-0ac2-4c05-8132-d9f80d67a8f2",
+    "order_id": "ORD-000060",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-23",
+    "estimated_delivery_date": "2025-11-03",
+    "actual_delivery_date": "2025-11-04",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK578076984",
+    "weight": 35.39,
+    "dimensions": {
+      "length": 168.32,
+      "width": 18.33,
+      "height": 6.52
+    }
+  },
+  {
+    "shipment_id": "ab9636fc-9dd7-4ff4-8de4-2dd52839f161",
+    "order_id": "ORD-000048",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-13",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": "2025-10-23",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK575325758",
+    "weight": 90.76,
+    "dimensions": {
+      "length": 189.01,
+      "width": 95.87,
+      "height": 8.1
+    }
+  },
+  {
+    "shipment_id": "61f78a9b-8e28-495c-b10e-dab1bbefd156",
+    "order_id": "ORD-000205",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-07",
+    "estimated_delivery_date": "2025-10-11",
+    "actual_delivery_date": "2025-10-16",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK275875835",
+    "weight": 11.01,
+    "dimensions": {
+      "length": 151.67,
+      "width": 36.27,
+      "height": 32.87
+    }
+  },
+  {
+    "shipment_id": "defa6dc7-4b3e-473b-a852-1bba98100d07",
+    "order_id": "ORD-000271",
+    "carrier_id": "FedEx",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-03",
+    "estimated_delivery_date": "2025-10-07",
+    "actual_delivery_date": "2025-10-12",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK511053916",
+    "weight": 22.0,
+    "dimensions": {
+      "length": 82.42,
+      "width": 83.85,
+      "height": 28.31
+    }
+  },
+  {
+    "shipment_id": "6bb1ecda-eb7b-49e5-be7f-daf0291271b1",
+    "order_id": "ORD-000265",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-07",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK277103740",
+    "weight": 94.93,
+    "dimensions": {
+      "length": 95.8,
+      "width": 49.14,
+      "height": 46.63
+    }
+  },
+  {
+    "shipment_id": "595f5335-f5df-491d-b769-87149beec794",
+    "order_id": "ORD-000275",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-05",
+    "actual_delivery_date": "2025-10-10",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK944429398",
+    "weight": 88.91,
+    "dimensions": {
+      "length": 96.96,
+      "width": 90.52,
+      "height": 6.99
+    }
+  },
+  {
+    "shipment_id": "8cb0af35-1f1c-4847-b81e-b5b52a5c2117",
+    "order_id": "ORD-000153",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-14",
+    "estimated_delivery_date": "2025-09-21",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK672360938",
+    "weight": 96.18,
+    "dimensions": {
+      "length": 166.7,
+      "width": 94.75,
+      "height": 18.98
+    }
+  },
+  {
+    "shipment_id": "24f206b0-895a-4631-a3f4-ede8a40db4b2",
+    "order_id": "ORD-000237",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-12",
+    "estimated_delivery_date": "2025-09-13",
+    "actual_delivery_date": "2025-09-18",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK226908870",
+    "weight": 50.18,
+    "dimensions": {
+      "length": 65.25,
+      "width": 99.53,
+      "height": 5.33
+    }
+  },
+  {
+    "shipment_id": "8c1a13db-12ac-4786-98c0-d4ba7e359a35",
+    "order_id": "ORD-000356",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-02",
+    "estimated_delivery_date": "2025-10-16",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK338749558",
+    "weight": 42.98,
+    "dimensions": {
+      "length": 60.36,
+      "width": 36.85,
+      "height": 34.24
+    }
+  },
+  {
+    "shipment_id": "5d29a344-d9fb-47cd-94a6-f5505b21eeb5",
+    "order_id": "ORD-000431",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-05",
+    "estimated_delivery_date": "2025-10-16",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK603419148",
+    "weight": 37.35,
+    "dimensions": {
+      "length": 149.07,
+      "width": 57.0,
+      "height": 44.03
+    }
+  },
+  {
+    "shipment_id": "4617d5da-64ca-4f93-961b-b6b3e454c1c3",
+    "order_id": "ORD-000128",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-02",
+    "estimated_delivery_date": "2025-10-14",
+    "actual_delivery_date": "2025-10-12",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK365400232",
+    "weight": 59.04,
+    "dimensions": {
+      "length": 23.74,
+      "width": 75.85,
+      "height": 7.94
+    }
+  },
+  {
+    "shipment_id": "280088ce-e242-4554-b242-73ba15f122b1",
+    "order_id": "ORD-000266",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-06",
+    "actual_delivery_date": "2025-09-06",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK819901924",
+    "weight": 2.76,
+    "dimensions": {
+      "length": 196.45,
+      "width": 47.52,
+      "height": 39.78
+    }
+  },
+  {
+    "shipment_id": "95823b9e-5e95-457a-863c-751ac810f136",
+    "order_id": "ORD-000220",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-31",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK861694222",
+    "weight": 22.1,
+    "dimensions": {
+      "length": 146.39,
+      "width": 48.92,
+      "height": 6.35
+    }
+  },
+  {
+    "shipment_id": "03c75a85-5fca-434b-998a-ebfdec6791b6",
+    "order_id": "ORD-000490",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK158653214",
+    "weight": 95.73,
+    "dimensions": {
+      "length": 146.11,
+      "width": 99.31,
+      "height": 45.95
+    }
+  },
+  {
+    "shipment_id": "b71e790a-5c28-4fc3-8c2b-83da7fdd0891",
+    "order_id": "ORD-000267",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-10",
+    "estimated_delivery_date": "2025-09-14",
+    "actual_delivery_date": "2025-09-14",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK775374389",
+    "weight": 74.45,
+    "dimensions": {
+      "length": 28.02,
+      "width": 57.8,
+      "height": 10.54
+    }
+  },
+  {
+    "shipment_id": "41f2047c-8b9f-4653-b996-dd30b82e2ec9",
+    "order_id": "ORD-000426",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-11-01",
+    "actual_delivery_date": "2025-11-02",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK822658884",
+    "weight": 45.52,
+    "dimensions": {
+      "length": 138.73,
+      "width": 44.96,
+      "height": 20.45
+    }
+  },
+  {
+    "shipment_id": "fa3ae2c0-bf74-48a6-acce-e7b35fc18a62",
+    "order_id": "ORD-000204",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": "2025-10-20",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK368651177",
+    "weight": 11.58,
+    "dimensions": {
+      "length": 144.27,
+      "width": 83.98,
+      "height": 23.14
+    }
+  },
+  {
+    "shipment_id": "b4d87d7d-9395-40cd-9676-06fe40763acf",
+    "order_id": "ORD-000222",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-13",
+    "estimated_delivery_date": "2025-09-24",
+    "actual_delivery_date": "2025-09-28",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK368279393",
+    "weight": 17.3,
+    "dimensions": {
+      "length": 189.67,
+      "width": 20.77,
+      "height": 48.08
+    }
+  },
+  {
+    "shipment_id": "a00e49be-ba9b-4506-b2bc-48fe2f41bcfa",
+    "order_id": "ORD-000112",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-10-01",
+    "actual_delivery_date": "2025-10-02",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK748949343",
+    "weight": 41.65,
+    "dimensions": {
+      "length": 139.48,
+      "width": 50.68,
+      "height": 15.97
+    }
+  },
+  {
+    "shipment_id": "35afa73a-63e4-4818-b7fb-1c8daeb07f8f",
+    "order_id": "ORD-000384",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-20",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": "2025-10-22",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK551467419",
+    "weight": 76.45,
+    "dimensions": {
+      "length": 46.59,
+      "width": 28.69,
+      "height": 11.28
+    }
+  },
+  {
+    "shipment_id": "132c20c4-76c7-426d-b4a2-6ea91a029d60",
+    "order_id": "ORD-000474",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-20",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK623516296",
+    "weight": 2.21,
+    "dimensions": {
+      "length": 182.23,
+      "width": 78.09,
+      "height": 6.78
+    }
+  },
+  {
+    "shipment_id": "559d95b1-0eb4-4c15-9dd3-27aa1268b5d6",
+    "order_id": "ORD-000092",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-26",
+    "estimated_delivery_date": "2025-09-28",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK298268487",
+    "weight": 6.25,
+    "dimensions": {
+      "length": 153.98,
+      "width": 84.3,
+      "height": 38.08
+    }
+  },
+  {
+    "shipment_id": "442843be-ccbf-48ed-953f-39a3c0c3f25e",
+    "order_id": "ORD-000099",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-18",
+    "actual_delivery_date": "2025-09-17",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK220752844",
+    "weight": 62.25,
+    "dimensions": {
+      "length": 50.71,
+      "width": 98.3,
+      "height": 16.53
+    }
+  },
+  {
+    "shipment_id": "7153e606-806e-4b09-848c-cadbe543710e",
+    "order_id": "ORD-000458",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-12",
+    "estimated_delivery_date": "2025-09-16",
+    "actual_delivery_date": "2025-09-16",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK115414581",
+    "weight": 8.2,
+    "dimensions": {
+      "length": 191.44,
+      "width": 65.19,
+      "height": 25.71
+    }
+  },
+  {
+    "shipment_id": "e0d89447-3db3-4bbf-92a5-db0771dab9a9",
+    "order_id": "ORD-000429",
+    "carrier_id": "FedEx",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-10-08",
+    "actual_delivery_date": "2025-10-05",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK457330419",
+    "weight": 78.5,
+    "dimensions": {
+      "length": 23.35,
+      "width": 60.94,
+      "height": 44.49
+    }
+  },
+  {
+    "shipment_id": "78982815-b5fb-497c-ba85-0cbb4a8f7c81",
+    "order_id": "ORD-000189",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-26",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": "2025-09-03",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK206303037",
+    "weight": 12.77,
+    "dimensions": {
+      "length": 84.22,
+      "width": 82.22,
+      "height": 18.38
+    }
+  },
+  {
+    "shipment_id": "e4380aeb-1ac5-4a47-a571-366973a43415",
+    "order_id": "ORD-000409",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-19",
+    "estimated_delivery_date": "2025-09-29",
+    "actual_delivery_date": "2025-10-03",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK820787550",
+    "weight": 4.37,
+    "dimensions": {
+      "length": 87.71,
+      "width": 67.4,
+      "height": 12.85
+    }
+  },
+  {
+    "shipment_id": "e8498622-d732-43df-8237-06a1b7540c8c",
+    "order_id": "ORD-000410",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-27",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK766945338",
+    "weight": 55.46,
+    "dimensions": {
+      "length": 190.87,
+      "width": 89.61,
+      "height": 14.0
+    }
+  },
+  {
+    "shipment_id": "a5c45bb9-af36-4df1-8781-557867320af2",
+    "order_id": "ORD-000134",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-29",
+    "estimated_delivery_date": "2025-09-01",
+    "actual_delivery_date": "2025-09-02",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK839976930",
+    "weight": 2.01,
+    "dimensions": {
+      "length": 28.07,
+      "width": 92.89,
+      "height": 34.01
+    }
+  },
+  {
+    "shipment_id": "6a793e8e-22d3-4e97-acde-ed8a9d0cf7ee",
+    "order_id": "ORD-000021",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-02",
+    "estimated_delivery_date": "2025-10-09",
+    "actual_delivery_date": "2025-10-09",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK988541340",
+    "weight": 42.03,
+    "dimensions": {
+      "length": 124.28,
+      "width": 13.86,
+      "height": 10.59
+    }
+  },
+  {
+    "shipment_id": "e7a904a4-31bb-496b-9ccd-e0f9133d6135",
+    "order_id": "ORD-000021",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-14",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-09-26",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK227398236",
+    "weight": 53.15,
+    "dimensions": {
+      "length": 70.82,
+      "width": 22.82,
+      "height": 33.82
+    }
+  },
+  {
+    "shipment_id": "b6adeebc-e5be-4df2-a292-3c11fde08a19",
+    "order_id": "ORD-000192",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-09-24",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK227177553",
+    "weight": 71.85,
+    "dimensions": {
+      "length": 45.04,
+      "width": 37.62,
+      "height": 13.74
+    }
+  },
+  {
+    "shipment_id": "36ec038f-66b6-4c19-b300-94384ee9c6f7",
+    "order_id": "ORD-000462",
+    "carrier_id": "DPD",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-08-28",
+    "actual_delivery_date": "2025-09-02",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK226026564",
+    "weight": 72.12,
+    "dimensions": {
+      "length": 187.62,
+      "width": 15.99,
+      "height": 22.5
+    }
+  },
+  {
+    "shipment_id": "ac1f2740-1698-4c91-ba4d-8ff935457929",
+    "order_id": "ORD-000173",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-08-26",
+    "estimated_delivery_date": "2025-08-28",
+    "actual_delivery_date": "2025-09-02",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK764668599",
+    "weight": 82.8,
+    "dimensions": {
+      "length": 128.79,
+      "width": 33.73,
+      "height": 31.61
+    }
+  },
+  {
+    "shipment_id": "e41b000a-d6a9-41e7-9071-27f43a49f33c",
+    "order_id": "ORD-000491",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-13",
+    "estimated_delivery_date": "2025-10-22",
+    "actual_delivery_date": "2025-10-21",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK184195986",
+    "weight": 90.45,
+    "dimensions": {
+      "length": 103.83,
+      "width": 56.7,
+      "height": 6.29
+    }
+  },
+  {
+    "shipment_id": "735c6852-01fe-4bcb-ac6a-06633dc5f2bc",
+    "order_id": "ORD-000111",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-09-27",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK924354772",
+    "weight": 90.46,
+    "dimensions": {
+      "length": 39.73,
+      "width": 83.34,
+      "height": 12.65
+    }
+  },
+  {
+    "shipment_id": "d24d021f-3a7b-424d-91d4-3247874a5816",
+    "order_id": "ORD-000008",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-28",
+    "estimated_delivery_date": "2025-09-07",
+    "actual_delivery_date": "2025-09-10",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK443307069",
+    "weight": 31.53,
+    "dimensions": {
+      "length": 45.37,
+      "width": 99.58,
+      "height": 39.35
+    }
+  },
+  {
+    "shipment_id": "e056b1f9-8f7f-4afd-9848-9e0dea4ec4fe",
+    "order_id": "ORD-000391",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-23",
+    "actual_delivery_date": "2025-10-28",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK309595534",
+    "weight": 20.25,
+    "dimensions": {
+      "length": 122.34,
+      "width": 23.35,
+      "height": 26.0
+    }
+  },
+  {
+    "shipment_id": "b98a5c2b-31a5-44f7-b98c-07a09529e3a9",
+    "order_id": "ORD-000038",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-18",
+    "actual_delivery_date": "2025-09-22",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK703564300",
+    "weight": 9.68,
+    "dimensions": {
+      "length": 132.66,
+      "width": 11.33,
+      "height": 36.54
+    }
+  },
+  {
+    "shipment_id": "35af0b59-8384-4d60-a442-e8cb991d3a9b",
+    "order_id": "ORD-000447",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-29",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK835286211",
+    "weight": 64.87,
+    "dimensions": {
+      "length": 97.29,
+      "width": 91.24,
+      "height": 32.94
+    }
+  },
+  {
+    "shipment_id": "79a9498f-c0a7-414a-b4ce-f304cd16e35b",
+    "order_id": "ORD-000264",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-09-24",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK761921847",
+    "weight": 23.26,
+    "dimensions": {
+      "length": 100.29,
+      "width": 90.37,
+      "height": 42.54
+    }
+  },
+  {
+    "shipment_id": "14dee33e-588c-4e5d-a06d-3f32532a9e59",
+    "order_id": "ORD-000017",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-26",
+    "estimated_delivery_date": "2025-08-28",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK329300227",
+    "weight": 98.68,
+    "dimensions": {
+      "length": 164.65,
+      "width": 88.19,
+      "height": 23.42
+    }
+  },
+  {
+    "shipment_id": "ba17761d-de5c-4c29-a7f8-c466a891b015",
+    "order_id": "ORD-000049",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-06",
+    "estimated_delivery_date": "2025-09-07",
+    "actual_delivery_date": "2025-09-08",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK253870621",
+    "weight": 98.82,
+    "dimensions": {
+      "length": 77.85,
+      "width": 62.03,
+      "height": 20.5
+    }
+  },
+  {
+    "shipment_id": "a5993b51-3ef9-4836-9899-c7fa98ec5168",
+    "order_id": "ORD-000083",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": "2025-10-22",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK447651035",
+    "weight": 82.35,
+    "dimensions": {
+      "length": 25.51,
+      "width": 62.75,
+      "height": 10.36
+    }
+  },
+  {
+    "shipment_id": "0b3840f0-3a1f-476f-bbe0-edcc8dc5e509",
+    "order_id": "ORD-000417",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": "2025-09-02",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK466905851",
+    "weight": 84.79,
+    "dimensions": {
+      "length": 141.15,
+      "width": 19.1,
+      "height": 9.54
+    }
+  },
+  {
+    "shipment_id": "7adff028-1b96-47b1-aa00-7a132c7a4abb",
+    "order_id": "ORD-000402",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-16",
+    "estimated_delivery_date": "2025-10-19",
+    "actual_delivery_date": "2025-10-16",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK100568435",
+    "weight": 23.42,
+    "dimensions": {
+      "length": 14.26,
+      "width": 52.97,
+      "height": 26.86
+    }
+  },
+  {
+    "shipment_id": "71c4a893-3300-4538-878e-921ec1cf3622",
+    "order_id": "ORD-000189",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-21",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-09-24",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK816839091",
+    "weight": 53.85,
+    "dimensions": {
+      "length": 72.66,
+      "width": 79.36,
+      "height": 28.73
+    }
+  },
+  {
+    "shipment_id": "d9895011-00af-474c-bedf-b59b075801e2",
+    "order_id": "ORD-000252",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-14",
+    "actual_delivery_date": "2025-09-18",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK964448935",
+    "weight": 13.24,
+    "dimensions": {
+      "length": 80.24,
+      "width": 95.43,
+      "height": 36.67
+    }
+  },
+  {
+    "shipment_id": "e7d1eed5-3a8e-4320-9fb8-4e1f85bc9de0",
+    "order_id": "ORD-000095",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-26",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK692368884",
+    "weight": 39.67,
+    "dimensions": {
+      "length": 161.48,
+      "width": 97.24,
+      "height": 19.31
+    }
+  },
+  {
+    "shipment_id": "d1f9c826-a5d1-4404-bf49-4ab93d2da07f",
+    "order_id": "ORD-000049",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": "2025-09-30",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK850686986",
+    "weight": 65.67,
+    "dimensions": {
+      "length": 164.03,
+      "width": 97.88,
+      "height": 36.08
+    }
+  },
+  {
+    "shipment_id": "ed7a4b7c-046e-47d4-9172-9d0c10915c85",
+    "order_id": "ORD-000240",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK103844944",
+    "weight": 76.77,
+    "dimensions": {
+      "length": 58.86,
+      "width": 91.24,
+      "height": 25.13
+    }
+  },
+  {
+    "shipment_id": "fb1b7b27-8f5a-4b67-a120-82ee4a97f285",
+    "order_id": "ORD-000235",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-13",
+    "estimated_delivery_date": "2025-09-17",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK607141423",
+    "weight": 38.87,
+    "dimensions": {
+      "length": 129.31,
+      "width": 62.37,
+      "height": 11.2
+    }
+  },
+  {
+    "shipment_id": "228dd1de-a0d0-481b-a893-845cf3152f5e",
+    "order_id": "ORD-000112",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-26",
+    "actual_delivery_date": "2025-10-23",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK121866569",
+    "weight": 29.2,
+    "dimensions": {
+      "length": 142.33,
+      "width": 72.56,
+      "height": 45.0
+    }
+  },
+  {
+    "shipment_id": "e6943640-c066-472e-90a9-4e8ad36d6f9f",
+    "order_id": "ORD-000005",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-29",
+    "estimated_delivery_date": "2025-10-13",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK259787754",
+    "weight": 94.2,
+    "dimensions": {
+      "length": 189.11,
+      "width": 79.32,
+      "height": 31.66
+    }
+  },
+  {
+    "shipment_id": "b61e6daf-2928-49f4-85d6-e6a36347b0ec",
+    "order_id": "ORD-000137",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-01",
+    "estimated_delivery_date": "2025-09-11",
+    "actual_delivery_date": "2025-09-11",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK156178651",
+    "weight": 51.37,
+    "dimensions": {
+      "length": 112.57,
+      "width": 59.52,
+      "height": 36.44
+    }
+  },
+  {
+    "shipment_id": "45355ee5-5fe2-4bd0-900f-5d015f6fe112",
+    "order_id": "ORD-000429",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-09-01",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK755251267",
+    "weight": 10.11,
+    "dimensions": {
+      "length": 37.84,
+      "width": 11.14,
+      "height": 46.89
+    }
+  },
+  {
+    "shipment_id": "e290b76e-5536-432f-b3e8-1425c29005a3",
+    "order_id": "ORD-000391",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-18",
+    "estimated_delivery_date": "2025-09-24",
+    "actual_delivery_date": "2025-09-28",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK802693277",
+    "weight": 59.09,
+    "dimensions": {
+      "length": 120.44,
+      "width": 77.08,
+      "height": 27.16
+    }
+  },
+  {
+    "shipment_id": "a2cccf51-28bb-42af-afa1-f8964ae39aff",
+    "order_id": "ORD-000041",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-26",
+    "actual_delivery_date": "2025-10-26",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK861748987",
+    "weight": 73.8,
+    "dimensions": {
+      "length": 166.19,
+      "width": 75.42,
+      "height": 16.93
+    }
+  },
+  {
+    "shipment_id": "82a9b468-4454-4392-aa36-a1109ce176b0",
+    "order_id": "ORD-000461",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-09",
+    "estimated_delivery_date": "2025-10-12",
+    "actual_delivery_date": "2025-10-17",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK871005446",
+    "weight": 35.13,
+    "dimensions": {
+      "length": 109.3,
+      "width": 30.98,
+      "height": 34.91
+    }
+  },
+  {
+    "shipment_id": "516d97fe-40bd-42d6-a911-7b6ab6d3d1c0",
+    "order_id": "ORD-000432",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-01",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK567943964",
+    "weight": 4.56,
+    "dimensions": {
+      "length": 12.99,
+      "width": 43.9,
+      "height": 48.62
+    }
+  },
+  {
+    "shipment_id": "308ff187-0bb2-4875-b221-5d49fb76740f",
+    "order_id": "ORD-000426",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-10",
+    "estimated_delivery_date": "2025-09-16",
+    "actual_delivery_date": "2025-09-17",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK136268477",
+    "weight": 27.05,
+    "dimensions": {
+      "length": 30.1,
+      "width": 22.91,
+      "height": 46.34
+    }
+  },
+  {
+    "shipment_id": "6ad2e0cf-06e9-4cbf-8c38-978935a62605",
+    "order_id": "ORD-000454",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-11",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": "2025-10-26",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK671120093",
+    "weight": 74.79,
+    "dimensions": {
+      "length": 190.75,
+      "width": 83.01,
+      "height": 27.12
+    }
+  },
+  {
+    "shipment_id": "92713bcf-e940-439a-9f30-3cb3e2b364f0",
+    "order_id": "ORD-000364",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-06",
+    "estimated_delivery_date": "2025-09-13",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK713485463",
+    "weight": 52.06,
+    "dimensions": {
+      "length": 14.01,
+      "width": 24.26,
+      "height": 41.43
+    }
+  },
+  {
+    "shipment_id": "752a717f-8e5b-4bee-8dba-22d3dbedcd87",
+    "order_id": "ORD-000078",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-18",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK944208129",
+    "weight": 25.77,
+    "dimensions": {
+      "length": 139.31,
+      "width": 94.5,
+      "height": 31.91
+    }
+  },
+  {
+    "shipment_id": "63813ec6-1ac3-48cc-86fd-4d7c2396a30e",
+    "order_id": "ORD-000170",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": "2025-09-06",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK952628975",
+    "weight": 62.58,
+    "dimensions": {
+      "length": 188.57,
+      "width": 99.84,
+      "height": 42.35
+    }
+  },
+  {
+    "shipment_id": "12ede5be-50b5-45b9-9e15-6e75a185bd3f",
+    "order_id": "ORD-000356",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-27",
+    "estimated_delivery_date": "2025-10-09",
+    "actual_delivery_date": "2025-10-11",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK559545212",
+    "weight": 92.95,
+    "dimensions": {
+      "length": 142.8,
+      "width": 19.76,
+      "height": 35.82
+    }
+  },
+  {
+    "shipment_id": "ba34bb77-22b5-431c-a38a-dbcc6c983a8c",
+    "order_id": "ORD-000062",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-07",
+    "estimated_delivery_date": "2025-10-10",
+    "actual_delivery_date": "2025-10-08",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK617184323",
+    "weight": 90.32,
+    "dimensions": {
+      "length": 180.47,
+      "width": 43.31,
+      "height": 20.18
+    }
+  },
+  {
+    "shipment_id": "8c1270c1-ef3e-4bee-b918-d3c96a5d148a",
+    "order_id": "ORD-000063",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-29",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK744420705",
+    "weight": 8.0,
+    "dimensions": {
+      "length": 20.05,
+      "width": 53.69,
+      "height": 7.06
+    }
+  },
+  {
+    "shipment_id": "cec8a48d-07ce-440b-aa99-f2b88bcdcda6",
+    "order_id": "ORD-000263",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-16",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": "2025-10-27",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK952556984",
+    "weight": 69.56,
+    "dimensions": {
+      "length": 107.75,
+      "width": 26.35,
+      "height": 12.25
+    }
+  },
+  {
+    "shipment_id": "86600ac0-39d9-40ca-8047-959648b00510",
+    "order_id": "ORD-000278",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-06",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK560819994",
+    "weight": 13.79,
+    "dimensions": {
+      "length": 156.66,
+      "width": 74.4,
+      "height": 26.02
+    }
+  },
+  {
+    "shipment_id": "63c6f3ca-81b1-4852-98a9-984c1efde85a",
+    "order_id": "ORD-000484",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-26",
+    "estimated_delivery_date": "2025-10-06",
+    "actual_delivery_date": "2025-10-09",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK831379477",
+    "weight": 19.1,
+    "dimensions": {
+      "length": 188.3,
+      "width": 13.6,
+      "height": 45.44
+    }
+  },
+  {
+    "shipment_id": "af742fab-f2db-41ee-8bdc-7dc341f2c3ad",
+    "order_id": "ORD-000463",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-11",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": "2025-10-23",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK582994376",
+    "weight": 69.52,
+    "dimensions": {
+      "length": 142.26,
+      "width": 35.6,
+      "height": 44.0
+    }
+  },
+  {
+    "shipment_id": "4ec5757b-dd4c-48b0-b699-adc533bfb1eb",
+    "order_id": "ORD-000366",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-12",
+    "actual_delivery_date": "2025-09-12",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK116038685",
+    "weight": 88.26,
+    "dimensions": {
+      "length": 45.58,
+      "width": 68.07,
+      "height": 20.89
+    }
+  },
+  {
+    "shipment_id": "81dcec65-395d-4aa4-a1ea-a8be920b2f8b",
+    "order_id": "ORD-000055",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-21",
+    "estimated_delivery_date": "2025-10-01",
+    "actual_delivery_date": "2025-09-29",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK902386067",
+    "weight": 9.26,
+    "dimensions": {
+      "length": 57.54,
+      "width": 99.92,
+      "height": 18.91
+    }
+  },
+  {
+    "shipment_id": "ff56c913-b475-4d91-abc4-721db6a75ec9",
+    "order_id": "ORD-000409",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-05",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-14",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK913230898",
+    "weight": 33.54,
+    "dimensions": {
+      "length": 92.3,
+      "width": 80.24,
+      "height": 5.57
+    }
+  },
+  {
+    "shipment_id": "a5b7f10a-ca59-4ed9-bb7a-56267d489f80",
+    "order_id": "ORD-000073",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-19",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK129288594",
+    "weight": 93.86,
+    "dimensions": {
+      "length": 151.23,
+      "width": 30.17,
+      "height": 27.97
+    }
+  },
+  {
+    "shipment_id": "c0c46565-387a-4bdc-9dbf-769a908448e5",
+    "order_id": "ORD-000457",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-02",
+    "estimated_delivery_date": "2025-09-03",
+    "actual_delivery_date": "2025-08-31",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK582255543",
+    "weight": 15.37,
+    "dimensions": {
+      "length": 124.17,
+      "width": 67.31,
+      "height": 19.71
+    }
+  },
+  {
+    "shipment_id": "a7b013e3-797d-41d6-b41d-fe52816aa286",
+    "order_id": "ORD-000405",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-08",
+    "estimated_delivery_date": "2025-10-19",
+    "actual_delivery_date": "2025-10-20",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK590813400",
+    "weight": 45.72,
+    "dimensions": {
+      "length": 14.2,
+      "width": 68.73,
+      "height": 37.4
+    }
+  },
+  {
+    "shipment_id": "36892cdb-6c9e-4015-8cb1-b9a26dbea215",
+    "order_id": "ORD-000119",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-07",
+    "estimated_delivery_date": "2025-09-21",
+    "actual_delivery_date": "2025-09-23",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK450274933",
+    "weight": 65.22,
+    "dimensions": {
+      "length": 142.51,
+      "width": 93.22,
+      "height": 38.3
+    }
+  },
+  {
+    "shipment_id": "940e0731-49ac-4208-9b10-89f94b7dc01e",
+    "order_id": "ORD-000122",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-29",
+    "actual_delivery_date": "2025-10-29",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK432468350",
+    "weight": 57.73,
+    "dimensions": {
+      "length": 79.19,
+      "width": 76.97,
+      "height": 33.26
+    }
+  },
+  {
+    "shipment_id": "cde605ea-1867-42fe-8ee5-4ae8a7d099e1",
+    "order_id": "ORD-000122",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK983662188",
+    "weight": 34.73,
+    "dimensions": {
+      "length": 190.71,
+      "width": 99.63,
+      "height": 36.24
+    }
+  },
+  {
+    "shipment_id": "8ea33971-f5dd-4371-9571-c1b55a7a51d4",
+    "order_id": "ORD-000233",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-09-29",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK986491198",
+    "weight": 29.35,
+    "dimensions": {
+      "length": 141.15,
+      "width": 50.02,
+      "height": 25.32
+    }
+  },
+  {
+    "shipment_id": "0e6d3c3d-5ddc-4813-a30b-f4c71576b5f4",
+    "order_id": "ORD-000185",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-21",
+    "estimated_delivery_date": "2025-10-01",
+    "actual_delivery_date": "2025-09-28",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK530955570",
+    "weight": 54.91,
+    "dimensions": {
+      "length": 138.5,
+      "width": 31.38,
+      "height": 44.85
+    }
+  },
+  {
+    "shipment_id": "4bdc1979-f750-431b-8a00-1a9c9098f2e2",
+    "order_id": "ORD-000076",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-18",
+    "estimated_delivery_date": "2025-10-22",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK473434610",
+    "weight": 89.31,
+    "dimensions": {
+      "length": 80.78,
+      "width": 72.66,
+      "height": 27.79
+    }
+  },
+  {
+    "shipment_id": "a1d35d8f-f0dc-47d6-9d1d-550134615b6e",
+    "order_id": "ORD-000158",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-10-08",
+    "actual_delivery_date": "2025-10-13",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK206338753",
+    "weight": 94.81,
+    "dimensions": {
+      "length": 178.44,
+      "width": 97.26,
+      "height": 22.84
+    }
+  },
+  {
+    "shipment_id": "cd65fbfc-d715-477c-a4bd-0bcc01934f5d",
+    "order_id": "ORD-000375",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-23",
+    "estimated_delivery_date": "2025-11-01",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK734713371",
+    "weight": 16.32,
+    "dimensions": {
+      "length": 135.58,
+      "width": 11.77,
+      "height": 20.09
+    }
+  },
+  {
+    "shipment_id": "3c493af7-c850-4d77-9114-0f31e60092d4",
+    "order_id": "ORD-000133",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-08",
+    "estimated_delivery_date": "2025-09-17",
+    "actual_delivery_date": "2025-09-20",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK422360109",
+    "weight": 97.96,
+    "dimensions": {
+      "length": 149.91,
+      "width": 10.51,
+      "height": 7.04
+    }
+  },
+  {
+    "shipment_id": "74dae345-b723-48b3-906e-41aea10f27b4",
+    "order_id": "ORD-000444",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-20",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": "2025-10-04",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK806205939",
+    "weight": 8.96,
+    "dimensions": {
+      "length": 123.42,
+      "width": 64.76,
+      "height": 15.51
+    }
+  },
+  {
+    "shipment_id": "40305a70-e1c4-4592-90a6-05ab8ff8cebe",
+    "order_id": "ORD-000039",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-05",
+    "estimated_delivery_date": "2025-10-09",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK429113033",
+    "weight": 44.21,
+    "dimensions": {
+      "length": 40.81,
+      "width": 84.83,
+      "height": 44.9
+    }
+  },
+  {
+    "shipment_id": "51828153-453e-4c71-a28d-263c05f871af",
+    "order_id": "ORD-000219",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-24",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK605631156",
+    "weight": 6.81,
+    "dimensions": {
+      "length": 84.78,
+      "width": 19.33,
+      "height": 45.72
+    }
+  },
+  {
+    "shipment_id": "9674f3af-43ae-4e3d-9e4e-7c098bbea8a3",
+    "order_id": "ORD-000139",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-20",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK716186649",
+    "weight": 80.42,
+    "dimensions": {
+      "length": 186.02,
+      "width": 63.04,
+      "height": 27.92
+    }
+  },
+  {
+    "shipment_id": "1d8eafb3-3ac9-4d38-9b85-9c399d4970e8",
+    "order_id": "ORD-000311",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-25",
+    "estimated_delivery_date": "2025-10-07",
+    "actual_delivery_date": "2025-10-04",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK533183948",
+    "weight": 89.81,
+    "dimensions": {
+      "length": 14.2,
+      "width": 37.45,
+      "height": 14.29
+    }
+  },
+  {
+    "shipment_id": "28fda37b-fa26-4bc8-95a3-b10a4c84b48d",
+    "order_id": "ORD-000152",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-19",
+    "estimated_delivery_date": "2025-09-28",
+    "actual_delivery_date": "2025-09-25",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK598133729",
+    "weight": 17.48,
+    "dimensions": {
+      "length": 193.85,
+      "width": 78.17,
+      "height": 42.84
+    }
+  },
+  {
+    "shipment_id": "5d64f2a9-b53c-46f9-8dcc-2e8f92bb6163",
+    "order_id": "ORD-000125",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-10-06",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK748835435",
+    "weight": 99.42,
+    "dimensions": {
+      "length": 134.85,
+      "width": 82.11,
+      "height": 49.31
+    }
+  },
+  {
+    "shipment_id": "8849c970-1cd3-41f0-9886-8711b7d49c0b",
+    "order_id": "ORD-000075",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-31",
+    "actual_delivery_date": "2025-11-01",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK895259333",
+    "weight": 50.98,
+    "dimensions": {
+      "length": 60.02,
+      "width": 35.3,
+      "height": 26.86
+    }
+  },
+  {
+    "shipment_id": "914bfdfc-af9e-4333-9444-9261267c6c3c",
+    "order_id": "ORD-000102",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-10",
+    "estimated_delivery_date": "2025-10-13",
+    "actual_delivery_date": "2025-10-13",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK302458358",
+    "weight": 4.65,
+    "dimensions": {
+      "length": 103.67,
+      "width": 47.4,
+      "height": 28.18
+    }
+  },
+  {
+    "shipment_id": "f9122cbb-6f3c-4ec5-bda8-489aa6b1133b",
+    "order_id": "ORD-000219",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-19",
+    "estimated_delivery_date": "2025-09-29",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK555044813",
+    "weight": 10.26,
+    "dimensions": {
+      "length": 105.83,
+      "width": 46.89,
+      "height": 45.53
+    }
+  },
+  {
+    "shipment_id": "0ece3a18-5540-498f-a5e3-7ad5d8ad38dd",
+    "order_id": "ORD-000264",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-09-30",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK401223333",
+    "weight": 26.57,
+    "dimensions": {
+      "length": 33.65,
+      "width": 96.34,
+      "height": 35.57
+    }
+  },
+  {
+    "shipment_id": "8bfa1a0b-2f29-4ec4-9b80-efeafba08c2d",
+    "order_id": "ORD-000027",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-14",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-09-24",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK373410126",
+    "weight": 63.16,
+    "dimensions": {
+      "length": 190.52,
+      "width": 21.61,
+      "height": 18.92
+    }
+  },
+  {
+    "shipment_id": "ed41e667-dcf7-43ff-b7f7-12d3b2d14845",
+    "order_id": "ORD-000251",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": "2025-10-01",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK308009689",
+    "weight": 70.81,
+    "dimensions": {
+      "length": 30.49,
+      "width": 70.45,
+      "height": 38.66
+    }
+  },
+  {
+    "shipment_id": "faba8365-5da7-4e37-b496-be995911ee13",
+    "order_id": "ORD-000063",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-17",
+    "actual_delivery_date": "2025-09-14",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK420487051",
+    "weight": 53.12,
+    "dimensions": {
+      "length": 71.27,
+      "width": 89.49,
+      "height": 13.51
+    }
+  },
+  {
+    "shipment_id": "ab1cfeb4-31f2-4e30-8041-ef77ca98924c",
+    "order_id": "ORD-000091",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-20",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK704698513",
+    "weight": 10.68,
+    "dimensions": {
+      "length": 194.01,
+      "width": 38.87,
+      "height": 44.27
+    }
+  },
+  {
+    "shipment_id": "68ea29b4-a6c5-46cc-bc3d-6197f72571c8",
+    "order_id": "ORD-000234",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-18",
+    "actual_delivery_date": "2025-10-17",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK870312700",
+    "weight": 16.62,
+    "dimensions": {
+      "length": 91.08,
+      "width": 75.59,
+      "height": 21.1
+    }
+  },
+  {
+    "shipment_id": "12d325b0-8fda-4b15-bcdd-9d8041fffd39",
+    "order_id": "ORD-000463",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-18",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": "2025-09-26",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK473813012",
+    "weight": 60.28,
+    "dimensions": {
+      "length": 131.19,
+      "width": 80.28,
+      "height": 22.4
+    }
+  },
+  {
+    "shipment_id": "48cb3029-8c91-410b-811a-8688ce248bfb",
+    "order_id": "ORD-000114",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-15",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-16",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK201083230",
+    "weight": 37.63,
+    "dimensions": {
+      "length": 84.64,
+      "width": 46.93,
+      "height": 14.59
+    }
+  },
+  {
+    "shipment_id": "0b591c26-20ae-44f2-be08-7849e238d70a",
+    "order_id": "ORD-000185",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": "2025-10-04",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK794979633",
+    "weight": 51.56,
+    "dimensions": {
+      "length": 162.89,
+      "width": 96.69,
+      "height": 10.0
+    }
+  },
+  {
+    "shipment_id": "7f8cb9cb-2dd6-461f-998d-83b094b3571e",
+    "order_id": "ORD-000293",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-08",
+    "estimated_delivery_date": "2025-10-15",
+    "actual_delivery_date": "2025-10-20",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK153906052",
+    "weight": 24.74,
+    "dimensions": {
+      "length": 195.68,
+      "width": 75.95,
+      "height": 19.39
+    }
+  },
+  {
+    "shipment_id": "5e9ec037-f996-4e29-8fe6-f99319e56005",
+    "order_id": "ORD-000396",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-09-30",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK735348717",
+    "weight": 25.61,
+    "dimensions": {
+      "length": 73.1,
+      "width": 59.03,
+      "height": 33.94
+    }
+  },
+  {
+    "shipment_id": "78722a72-1143-4d6a-a588-e099d61eb8ae",
+    "order_id": "ORD-000182",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-09",
+    "estimated_delivery_date": "2025-10-15",
+    "actual_delivery_date": "2025-10-14",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK633093739",
+    "weight": 2.38,
+    "dimensions": {
+      "length": 185.33,
+      "width": 58.61,
+      "height": 7.69
+    }
+  },
+  {
+    "shipment_id": "284f3b60-cb1e-4d40-ab11-df4d52a5eec4",
+    "order_id": "ORD-000136",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-05",
+    "estimated_delivery_date": "2025-10-10",
+    "actual_delivery_date": "2025-10-15",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK610763473",
+    "weight": 46.66,
+    "dimensions": {
+      "length": 44.81,
+      "width": 65.84,
+      "height": 43.26
+    }
+  },
+  {
+    "shipment_id": "e84a9291-f5e0-428e-9922-ef3123cd5ad8",
+    "order_id": "ORD-000045",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-09",
+    "estimated_delivery_date": "2025-09-11",
+    "actual_delivery_date": "2025-09-16",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK886261580",
+    "weight": 86.56,
+    "dimensions": {
+      "length": 49.55,
+      "width": 74.66,
+      "height": 34.5
+    }
+  },
+  {
+    "shipment_id": "e37de3d3-a34c-44f6-a2f0-df65e8feeed8",
+    "order_id": "ORD-000243",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-10-05",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK303668334",
+    "weight": 82.7,
+    "dimensions": {
+      "length": 55.84,
+      "width": 83.82,
+      "height": 23.82
+    }
+  },
+  {
+    "shipment_id": "32cc9075-7521-4688-8921-352d9eea4fee",
+    "order_id": "ORD-000478",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-19",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK685986896",
+    "weight": 74.42,
+    "dimensions": {
+      "length": 177.12,
+      "width": 41.11,
+      "height": 36.16
+    }
+  },
+  {
+    "shipment_id": "1c58f718-cf7d-4c74-af92-91d5d7d6709b",
+    "order_id": "ORD-000183",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-15",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK962710000",
+    "weight": 86.93,
+    "dimensions": {
+      "length": 183.66,
+      "width": 59.68,
+      "height": 49.44
+    }
+  },
+  {
+    "shipment_id": "629ce5da-d0a0-4055-9eb8-d98c1ae543a6",
+    "order_id": "ORD-000087",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-30",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": "2025-10-05",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK181473624",
+    "weight": 85.94,
+    "dimensions": {
+      "length": 123.83,
+      "width": 48.75,
+      "height": 30.46
+    }
+  },
+  {
+    "shipment_id": "8166b6a4-1523-47ce-9ebc-99c1fff7ba88",
+    "order_id": "ORD-000197",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-27",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK390753846",
+    "weight": 2.47,
+    "dimensions": {
+      "length": 147.67,
+      "width": 53.58,
+      "height": 33.44
+    }
+  },
+  {
+    "shipment_id": "1c497f29-e043-4e22-bbbd-41ff9dfd367e",
+    "order_id": "ORD-000176",
+    "carrier_id": "FedEx",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-09-29",
+    "actual_delivery_date": "2025-09-29",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK862690434",
+    "weight": 90.18,
+    "dimensions": {
+      "length": 27.31,
+      "width": 53.47,
+      "height": 36.88
+    }
+  },
+  {
+    "shipment_id": "3ed87be9-1585-417a-84e2-f19a10a2b31a",
+    "order_id": "ORD-000491",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-08-31",
+    "estimated_delivery_date": "2025-09-11",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK260927767",
+    "weight": 37.08,
+    "dimensions": {
+      "length": 61.36,
+      "width": 29.2,
+      "height": 8.81
+    }
+  },
+  {
+    "shipment_id": "8321e2fd-1538-4c57-92c4-e67a5f7b6ceb",
+    "order_id": "ORD-000040",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-26",
+    "estimated_delivery_date": "2025-10-08",
+    "actual_delivery_date": "2025-10-10",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK179914345",
+    "weight": 49.07,
+    "dimensions": {
+      "length": 15.77,
+      "width": 25.78,
+      "height": 18.13
+    }
+  },
+  {
+    "shipment_id": "aad9c129-bd1b-412e-9367-50126bf3c3b0",
+    "order_id": "ORD-000383",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-29",
+    "estimated_delivery_date": "2025-09-01",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK426588273",
+    "weight": 76.8,
+    "dimensions": {
+      "length": 69.05,
+      "width": 44.66,
+      "height": 40.03
+    }
+  },
+  {
+    "shipment_id": "2a8b1506-a660-4255-9685-c505f712ffb4",
+    "order_id": "ORD-000170",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-15",
+    "actual_delivery_date": "2025-10-16",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK255592292",
+    "weight": 41.4,
+    "dimensions": {
+      "length": 57.53,
+      "width": 24.3,
+      "height": 19.4
+    }
+  },
+  {
+    "shipment_id": "d1d72b7b-6f5b-49d2-8b05-d2f1b968bbdb",
+    "order_id": "ORD-000301",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-10-10",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK848807295",
+    "weight": 27.09,
+    "dimensions": {
+      "length": 84.59,
+      "width": 55.25,
+      "height": 23.18
+    }
+  },
+  {
+    "shipment_id": "96e4c5c1-e3b8-4423-bcc1-d3bd2090e564",
+    "order_id": "ORD-000282",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-09-08",
+    "actual_delivery_date": "2025-09-10",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK599552337",
+    "weight": 96.91,
+    "dimensions": {
+      "length": 58.93,
+      "width": 86.79,
+      "height": 22.14
+    }
+  },
+  {
+    "shipment_id": "3d5c8606-79f6-4d6b-a034-39af23ffa160",
+    "order_id": "ORD-000008",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-02",
+    "estimated_delivery_date": "2025-09-11",
+    "actual_delivery_date": "2025-09-11",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK522138242",
+    "weight": 73.98,
+    "dimensions": {
+      "length": 194.6,
+      "width": 59.69,
+      "height": 13.51
+    }
+  },
+  {
+    "shipment_id": "d5c49792-bbab-440c-ab8c-c0247391f0c4",
+    "order_id": "ORD-000318",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-06",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK575835029",
+    "weight": 41.15,
+    "dimensions": {
+      "length": 127.04,
+      "width": 12.12,
+      "height": 30.04
+    }
+  },
+  {
+    "shipment_id": "5a41a192-aafa-4332-9537-4964ab2fa98d",
+    "order_id": "ORD-000303",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-15",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK955216925",
+    "weight": 90.59,
+    "dimensions": {
+      "length": 164.23,
+      "width": 51.98,
+      "height": 19.89
+    }
+  },
+  {
+    "shipment_id": "59883e61-05ce-4d44-af12-3e5c72253242",
+    "order_id": "ORD-000058",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-14",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK380529759",
+    "weight": 92.03,
+    "dimensions": {
+      "length": 154.21,
+      "width": 95.98,
+      "height": 8.23
+    }
+  },
+  {
+    "shipment_id": "f8863e10-b04f-4a6e-8a7f-c9a858ee73cf",
+    "order_id": "ORD-000021",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-01",
+    "estimated_delivery_date": "2025-10-02",
+    "actual_delivery_date": "2025-10-06",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK466419678",
+    "weight": 13.65,
+    "dimensions": {
+      "length": 81.43,
+      "width": 84.68,
+      "height": 8.1
+    }
+  },
+  {
+    "shipment_id": "792aa23d-5c01-4c97-b027-6626d2d63666",
+    "order_id": "ORD-000203",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-01",
+    "estimated_delivery_date": "2025-10-11",
+    "actual_delivery_date": "2025-10-15",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK599340259",
+    "weight": 38.6,
+    "dimensions": {
+      "length": 31.25,
+      "width": 77.89,
+      "height": 16.16
+    }
+  },
+  {
+    "shipment_id": "7511fea4-4ba8-4f71-b7d3-0c19a02db5cd",
+    "order_id": "ORD-000278",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-09",
+    "estimated_delivery_date": "2025-10-10",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK297483004",
+    "weight": 35.48,
+    "dimensions": {
+      "length": 84.3,
+      "width": 45.84,
+      "height": 17.93
+    }
+  },
+  {
+    "shipment_id": "d1081253-288b-4aa6-ba4a-a298d9833ac2",
+    "order_id": "ORD-000200",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-08-28",
+    "estimated_delivery_date": "2025-09-11",
+    "actual_delivery_date": "2025-09-12",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK113524388",
+    "weight": 83.19,
+    "dimensions": {
+      "length": 33.97,
+      "width": 53.72,
+      "height": 32.8
+    }
+  },
+  {
+    "shipment_id": "4fbb43e3-0a4e-49c4-a00b-a79982078458",
+    "order_id": "ORD-000418",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-10",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK126223960",
+    "weight": 64.03,
+    "dimensions": {
+      "length": 31.55,
+      "width": 84.71,
+      "height": 19.08
+    }
+  },
+  {
+    "shipment_id": "25603470-5389-495b-8f66-95067505b0ab",
+    "order_id": "ORD-000032",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-07",
+    "estimated_delivery_date": "2025-09-08",
+    "actual_delivery_date": "2025-09-12",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK644897077",
+    "weight": 58.03,
+    "dimensions": {
+      "length": 185.46,
+      "width": 62.23,
+      "height": 9.26
+    }
+  },
+  {
+    "shipment_id": "66fd5abb-58a2-4520-833c-2e0d7bca3e1b",
+    "order_id": "ORD-000063",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-18",
+    "actual_delivery_date": "2025-10-18",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK304509429",
+    "weight": 68.24,
+    "dimensions": {
+      "length": 134.77,
+      "width": 76.43,
+      "height": 14.12
+    }
+  },
+  {
+    "shipment_id": "3a268f89-d44c-46fb-b6b6-3fcec4bbad9c",
+    "order_id": "ORD-000281",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-31",
+    "actual_delivery_date": "2025-11-03",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK672878043",
+    "weight": 34.3,
+    "dimensions": {
+      "length": 23.94,
+      "width": 34.34,
+      "height": 15.64
+    }
+  },
+  {
+    "shipment_id": "75dc0c7a-b01f-4469-af0e-dcd96310e49e",
+    "order_id": "ORD-000117",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-27",
+    "estimated_delivery_date": "2025-10-11",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK488663731",
+    "weight": 9.03,
+    "dimensions": {
+      "length": 94.8,
+      "width": 25.46,
+      "height": 32.36
+    }
+  },
+  {
+    "shipment_id": "6706c61a-6c3f-488a-bb97-6964c505fa0e",
+    "order_id": "ORD-000109",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-30",
+    "estimated_delivery_date": "2025-08-31",
+    "actual_delivery_date": "2025-09-02",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK167137521",
+    "weight": 75.94,
+    "dimensions": {
+      "length": 72.15,
+      "width": 19.24,
+      "height": 31.5
+    }
+  },
+  {
+    "shipment_id": "45d22f5a-a092-4b72-91eb-135111ae822e",
+    "order_id": "ORD-000481",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-30",
+    "estimated_delivery_date": "2025-09-13",
+    "actual_delivery_date": "2025-09-18",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK761334641",
+    "weight": 5.53,
+    "dimensions": {
+      "length": 183.02,
+      "width": 78.84,
+      "height": 38.0
+    }
+  },
+  {
+    "shipment_id": "eb3145e9-187f-49a8-a39f-5a52e6e807d4",
+    "order_id": "ORD-000324",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-06",
+    "estimated_delivery_date": "2025-09-10",
+    "actual_delivery_date": "2025-09-15",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK282219237",
+    "weight": 52.09,
+    "dimensions": {
+      "length": 145.83,
+      "width": 69.02,
+      "height": 6.8
+    }
+  },
+  {
+    "shipment_id": "761d31fc-5200-4638-b214-c110c00de1f7",
+    "order_id": "ORD-000397",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-20",
+    "estimated_delivery_date": "2025-10-29",
+    "actual_delivery_date": "2025-10-28",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK571683793",
+    "weight": 57.41,
+    "dimensions": {
+      "length": 158.38,
+      "width": 85.67,
+      "height": 45.93
+    }
+  },
+  {
+    "shipment_id": "43cdc51d-27be-41ba-9d9b-9842d32a6a21",
+    "order_id": "ORD-000431",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-31",
+    "estimated_delivery_date": "2025-09-08",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK674316174",
+    "weight": 32.09,
+    "dimensions": {
+      "length": 71.78,
+      "width": 15.74,
+      "height": 21.49
+    }
+  },
+  {
+    "shipment_id": "81f2a66b-7b1c-404a-88b1-720e94b7502d",
+    "order_id": "ORD-000033",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-09-01",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK711069353",
+    "weight": 11.06,
+    "dimensions": {
+      "length": 163.18,
+      "width": 22.23,
+      "height": 26.54
+    }
+  },
+  {
+    "shipment_id": "d5c82cb0-4902-48fc-8b94-a2ee45bb3fdc",
+    "order_id": "ORD-000470",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-29",
+    "estimated_delivery_date": "2025-10-09",
+    "actual_delivery_date": "2025-10-13",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK788622826",
+    "weight": 81.07,
+    "dimensions": {
+      "length": 156.51,
+      "width": 37.75,
+      "height": 33.33
+    }
+  },
+  {
+    "shipment_id": "039043c6-0c79-4b7a-b442-8bce10f4422c",
+    "order_id": "ORD-000194",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-08-29",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK934974603",
+    "weight": 43.83,
+    "dimensions": {
+      "length": 49.95,
+      "width": 49.22,
+      "height": 19.49
+    }
+  },
+  {
+    "shipment_id": "47c4b2a2-020b-466b-8602-3cb3d7588ea4",
+    "order_id": "ORD-000398",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": "2025-09-25",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK178320720",
+    "weight": 82.11,
+    "dimensions": {
+      "length": 167.97,
+      "width": 56.71,
+      "height": 42.68
+    }
+  },
+  {
+    "shipment_id": "dd1f7295-dcf2-4862-a79e-ebda43924069",
+    "order_id": "ORD-000256",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-24",
+    "actual_delivery_date": "2025-10-27",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK531644349",
+    "weight": 19.79,
+    "dimensions": {
+      "length": 28.2,
+      "width": 67.76,
+      "height": 31.07
+    }
+  },
+  {
+    "shipment_id": "3dcfbbf7-1628-47e8-92d0-f9cd3385ba9e",
+    "order_id": "ORD-000049",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-31",
+    "estimated_delivery_date": "2025-09-12",
+    "actual_delivery_date": "2025-09-14",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK999824018",
+    "weight": 67.51,
+    "dimensions": {
+      "length": 37.0,
+      "width": 24.69,
+      "height": 18.94
+    }
+  },
+  {
+    "shipment_id": "361e0aca-98af-4965-8940-ed9c7f86ecee",
+    "order_id": "ORD-000091",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-19",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK741423321",
+    "weight": 70.5,
+    "dimensions": {
+      "length": 24.38,
+      "width": 61.14,
+      "height": 39.05
+    }
+  },
+  {
+    "shipment_id": "4f362ca6-b5a5-47ce-ab4f-f632f1eb9b99",
+    "order_id": "ORD-000368",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-22",
+    "estimated_delivery_date": "2025-10-05",
+    "actual_delivery_date": "2025-10-10",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK488397931",
+    "weight": 57.67,
+    "dimensions": {
+      "length": 70.56,
+      "width": 61.73,
+      "height": 17.12
+    }
+  },
+  {
+    "shipment_id": "187f29eb-aafb-47ce-9343-075bb8078d94",
+    "order_id": "ORD-000061",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK150785520",
+    "weight": 39.64,
+    "dimensions": {
+      "length": 37.19,
+      "width": 61.27,
+      "height": 41.49
+    }
+  },
+  {
+    "shipment_id": "aeac9a2d-2f63-4966-83ec-4981dcf7d6ae",
+    "order_id": "ORD-000493",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-13",
+    "estimated_delivery_date": "2025-09-20",
+    "actual_delivery_date": "2025-09-24",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK949913576",
+    "weight": 90.72,
+    "dimensions": {
+      "length": 186.78,
+      "width": 27.86,
+      "height": 19.96
+    }
+  },
+  {
+    "shipment_id": "7ba98f55-034c-409e-8880-5fe3a8efa2f8",
+    "order_id": "ORD-000456",
+    "carrier_id": "FedEx",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-05",
+    "estimated_delivery_date": "2025-10-14",
+    "actual_delivery_date": "2025-10-16",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK678109650",
+    "weight": 29.17,
+    "dimensions": {
+      "length": 195.76,
+      "width": 81.67,
+      "height": 11.08
+    }
+  },
+  {
+    "shipment_id": "44bdb917-1f17-4fc9-81d7-b651d7355ab3",
+    "order_id": "ORD-000403",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-24",
+    "actual_delivery_date": "2025-10-25",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK335995116",
+    "weight": 51.03,
+    "dimensions": {
+      "length": 163.07,
+      "width": 61.53,
+      "height": 37.67
+    }
+  },
+  {
+    "shipment_id": "83d24d39-aede-456b-88bb-a578c94d923e",
+    "order_id": "ORD-000349",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-02",
+    "estimated_delivery_date": "2025-09-10",
+    "actual_delivery_date": "2025-09-07",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK518697756",
+    "weight": 82.22,
+    "dimensions": {
+      "length": 108.36,
+      "width": 64.8,
+      "height": 41.26
+    }
+  },
+  {
+    "shipment_id": "98a5f5f1-89af-4015-b7aa-ce4b361489e6",
+    "order_id": "ORD-000066",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-16",
+    "estimated_delivery_date": "2025-09-28",
+    "actual_delivery_date": "2025-09-30",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK209274546",
+    "weight": 14.87,
+    "dimensions": {
+      "length": 79.29,
+      "width": 24.76,
+      "height": 35.41
+    }
+  },
+  {
+    "shipment_id": "9b556208-6026-4299-b345-32c492884f7a",
+    "order_id": "ORD-000025",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-21",
+    "actual_delivery_date": "2025-10-26",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK876607357",
+    "weight": 66.02,
+    "dimensions": {
+      "length": 139.6,
+      "width": 75.43,
+      "height": 42.46
+    }
+  },
+  {
+    "shipment_id": "138b29fb-4d1e-4f38-b74c-877365f85a65",
+    "order_id": "ORD-000440",
+    "carrier_id": "UPS",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-26",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": "2025-10-06",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK764392161",
+    "weight": 50.35,
+    "dimensions": {
+      "length": 33.97,
+      "width": 45.5,
+      "height": 12.8
+    }
+  },
+  {
+    "shipment_id": "f79ce661-6c32-44f7-a403-ff5126b2b95a",
+    "order_id": "ORD-000375",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-10",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": "2025-09-23",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK903689019",
+    "weight": 51.55,
+    "dimensions": {
+      "length": 181.86,
+      "width": 42.91,
+      "height": 38.74
+    }
+  },
+  {
+    "shipment_id": "7ed4f704-a4f0-42b5-a244-fdb02055beb5",
+    "order_id": "ORD-000368",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-16",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": "2025-10-23",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK480458346",
+    "weight": 23.12,
+    "dimensions": {
+      "length": 27.56,
+      "width": 49.24,
+      "height": 14.93
+    }
+  },
+  {
+    "shipment_id": "687bbedf-fa79-4edd-9b91-3183918849b4",
+    "order_id": "ORD-000002",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-06",
+    "estimated_delivery_date": "2025-10-18",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK476572702",
+    "weight": 87.83,
+    "dimensions": {
+      "length": 38.9,
+      "width": 64.28,
+      "height": 40.27
+    }
+  },
+  {
+    "shipment_id": "901e098c-5291-4527-ba28-aef89f39b77c",
+    "order_id": "ORD-000256",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-15",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK999767580",
+    "weight": 6.98,
+    "dimensions": {
+      "length": 19.97,
+      "width": 17.86,
+      "height": 9.09
+    }
+  },
+  {
+    "shipment_id": "db67b4c0-752a-44bf-97ca-7aa272f48e2e",
+    "order_id": "ORD-000193",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-26",
+    "estimated_delivery_date": "2025-08-29",
+    "actual_delivery_date": "2025-08-26",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK213376112",
+    "weight": 56.97,
+    "dimensions": {
+      "length": 118.16,
+      "width": 44.46,
+      "height": 28.31
+    }
+  },
+  {
+    "shipment_id": "90498e70-b444-40ab-9962-06cdab6f4300",
+    "order_id": "ORD-000162",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-29",
+    "actual_delivery_date": "2025-10-29",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK782174042",
+    "weight": 11.91,
+    "dimensions": {
+      "length": 99.65,
+      "width": 37.91,
+      "height": 22.08
+    }
+  },
+  {
+    "shipment_id": "6aeba0d8-583f-47a9-9d1c-b0d000f5ecee",
+    "order_id": "ORD-000265",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-23",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": "2025-10-30",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK612782358",
+    "weight": 70.9,
+    "dimensions": {
+      "length": 66.57,
+      "width": 77.05,
+      "height": 7.91
+    }
+  },
+  {
+    "shipment_id": "181397f0-9f7a-4534-9351-62c1d387d921",
+    "order_id": "ORD-000186",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-21",
+    "actual_delivery_date": "2025-10-25",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK574794570",
+    "weight": 66.87,
+    "dimensions": {
+      "length": 10.96,
+      "width": 41.26,
+      "height": 12.43
+    }
+  },
+  {
+    "shipment_id": "ff9acdfa-ac77-4271-ac85-ff3fbed6b533",
+    "order_id": "ORD-000254",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-16",
+    "estimated_delivery_date": "2025-09-28",
+    "actual_delivery_date": "2025-10-01",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK292044227",
+    "weight": 14.73,
+    "dimensions": {
+      "length": 76.69,
+      "width": 18.11,
+      "height": 42.7
+    }
+  },
+  {
+    "shipment_id": "f8165cab-e011-4121-a370-0fab39a191c7",
+    "order_id": "ORD-000350",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK714557864",
+    "weight": 93.94,
+    "dimensions": {
+      "length": 189.09,
+      "width": 92.41,
+      "height": 32.36
+    }
+  },
+  {
+    "shipment_id": "0fb63b88-4332-4b87-a53b-174aef5c8775",
+    "order_id": "ORD-000269",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-09",
+    "actual_delivery_date": "2025-09-08",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK204403419",
+    "weight": 11.77,
+    "dimensions": {
+      "length": 132.92,
+      "width": 52.1,
+      "height": 30.99
+    }
+  },
+  {
+    "shipment_id": "48985ed5-37ff-4557-934c-9ee2ddb3b151",
+    "order_id": "ORD-000083",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-06",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-21",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK122634524",
+    "weight": 16.36,
+    "dimensions": {
+      "length": 69.17,
+      "width": 37.93,
+      "height": 5.15
+    }
+  },
+  {
+    "shipment_id": "0bd00424-40cb-4c44-bc16-32af7018ae48",
+    "order_id": "ORD-000458",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-30",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": "2025-09-06",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK812742703",
+    "weight": 66.93,
+    "dimensions": {
+      "length": 79.06,
+      "width": 71.4,
+      "height": 13.86
+    }
+  },
+  {
+    "shipment_id": "811e5c7f-d7fe-4b73-a048-3426b8d76617",
+    "order_id": "ORD-000102",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-26",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK212266381",
+    "weight": 89.84,
+    "dimensions": {
+      "length": 197.52,
+      "width": 93.7,
+      "height": 42.1
+    }
+  },
+  {
+    "shipment_id": "ff101ef3-e67c-4edd-8ded-9f01a03f8093",
+    "order_id": "ORD-000197",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-20",
+    "estimated_delivery_date": "2025-10-27",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK120215848",
+    "weight": 92.45,
+    "dimensions": {
+      "length": 198.79,
+      "width": 51.02,
+      "height": 39.32
+    }
+  },
+  {
+    "shipment_id": "12a75b29-2e1e-4d5f-867c-f52b4980b638",
+    "order_id": "ORD-000210",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-20",
+    "actual_delivery_date": "2025-09-21",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK185744424",
+    "weight": 60.62,
+    "dimensions": {
+      "length": 70.68,
+      "width": 61.56,
+      "height": 30.82
+    }
+  },
+  {
+    "shipment_id": "4cc9a0ad-40fd-4af3-a65d-0cc32511c64f",
+    "order_id": "ORD-000181",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-01",
+    "actual_delivery_date": "2025-09-01",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK729797722",
+    "weight": 62.56,
+    "dimensions": {
+      "length": 12.89,
+      "width": 96.02,
+      "height": 19.88
+    }
+  },
+  {
+    "shipment_id": "9d4be5e4-72b1-49e5-8517-4ffb8b6be79d",
+    "order_id": "ORD-000301",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-25",
+    "estimated_delivery_date": "2025-10-02",
+    "actual_delivery_date": "2025-10-03",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK407188703",
+    "weight": 88.51,
+    "dimensions": {
+      "length": 14.76,
+      "width": 48.32,
+      "height": 33.71
+    }
+  },
+  {
+    "shipment_id": "b3455d37-cdad-4e03-ac22-ec6cacb187c1",
+    "order_id": "ORD-000428",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-17",
+    "actual_delivery_date": "2025-09-22",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK896092443",
+    "weight": 13.66,
+    "dimensions": {
+      "length": 68.24,
+      "width": 98.31,
+      "height": 6.06
+    }
+  },
+  {
+    "shipment_id": "bcf91d01-6303-4fa4-8a81-fa6e7208f34d",
+    "order_id": "ORD-000365",
+    "carrier_id": "FedEx",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-05",
+    "estimated_delivery_date": "2025-10-06",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK149813080",
+    "weight": 25.95,
+    "dimensions": {
+      "length": 150.42,
+      "width": 13.13,
+      "height": 45.48
+    }
+  },
+  {
+    "shipment_id": "d02dbd55-f84f-4703-8699-2ed8f5ae1c45",
+    "order_id": "ORD-000118",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-08-27",
+    "actual_delivery_date": "2025-08-28",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK286576461",
+    "weight": 67.03,
+    "dimensions": {
+      "length": 131.06,
+      "width": 80.94,
+      "height": 41.76
+    }
+  },
+  {
+    "shipment_id": "f6624448-07e4-4bbf-9cf9-bddfe6c48734",
+    "order_id": "ORD-000367",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-13",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK270598960",
+    "weight": 83.39,
+    "dimensions": {
+      "length": 190.23,
+      "width": 11.68,
+      "height": 8.32
+    }
+  },
+  {
+    "shipment_id": "e52d91b1-34e3-44d8-ad60-d2e2242102e2",
+    "order_id": "ORD-000393",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-12",
+    "estimated_delivery_date": "2025-09-18",
+    "actual_delivery_date": "2025-09-17",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK566022532",
+    "weight": 58.47,
+    "dimensions": {
+      "length": 91.12,
+      "width": 76.37,
+      "height": 29.17
+    }
+  },
+  {
+    "shipment_id": "21a76b93-d06b-44d5-abcb-2fa5a4fdbf56",
+    "order_id": "ORD-000401",
+    "carrier_id": "UPS",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": "2025-09-19",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK731306203",
+    "weight": 49.82,
+    "dimensions": {
+      "length": 50.21,
+      "width": 63.59,
+      "height": 29.57
+    }
+  },
+  {
+    "shipment_id": "f34934e1-ca1c-42aa-b7ab-d625e60f7693",
+    "order_id": "ORD-000183",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": "2025-09-03",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK308860593",
+    "weight": 85.76,
+    "dimensions": {
+      "length": 120.59,
+      "width": 42.05,
+      "height": 20.19
+    }
+  },
+  {
+    "shipment_id": "9b66d36b-3aa9-4957-980b-19c921dba887",
+    "order_id": "ORD-000493",
+    "carrier_id": "FedEx",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-21",
+    "estimated_delivery_date": "2025-09-22",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK150142389",
+    "weight": 39.78,
+    "dimensions": {
+      "length": 137.01,
+      "width": 18.95,
+      "height": 31.96
+    }
+  },
+  {
+    "shipment_id": "d645718c-119c-49d6-b3a8-097a08059627",
+    "order_id": "ORD-000298",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-27",
+    "estimated_delivery_date": "2025-09-28",
+    "actual_delivery_date": "2025-09-29",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK322063253",
+    "weight": 3.89,
+    "dimensions": {
+      "length": 103.22,
+      "width": 22.58,
+      "height": 6.15
+    }
+  },
+  {
+    "shipment_id": "51434b52-fbb6-4b2d-b204-f9d2d0b24a30",
+    "order_id": "ORD-000043",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-01",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": "2025-09-10",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK893407475",
+    "weight": 57.89,
+    "dimensions": {
+      "length": 16.67,
+      "width": 39.92,
+      "height": 25.22
+    }
+  },
+  {
+    "shipment_id": "06257903-c149-4bbb-8f91-328b47b8bb98",
+    "order_id": "ORD-000336",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-29",
+    "estimated_delivery_date": "2025-09-09",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK308565208",
+    "weight": 8.45,
+    "dimensions": {
+      "length": 32.66,
+      "width": 14.21,
+      "height": 26.83
+    }
+  },
+  {
+    "shipment_id": "dcfed338-5e13-4609-806f-7a99acb2712d",
+    "order_id": "ORD-000342",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-11",
+    "estimated_delivery_date": "2025-10-13",
+    "actual_delivery_date": "2025-10-18",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK832128582",
+    "weight": 62.67,
+    "dimensions": {
+      "length": 45.24,
+      "width": 46.32,
+      "height": 25.2
+    }
+  },
+  {
+    "shipment_id": "9f328037-5b4b-44a8-bb2a-74e3c9d64743",
+    "order_id": "ORD-000029",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-23",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": "2025-11-01",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK254920455",
+    "weight": 82.83,
+    "dimensions": {
+      "length": 92.82,
+      "width": 90.81,
+      "height": 22.07
+    }
+  },
+  {
+    "shipment_id": "968077d8-89ec-4598-9f68-f8f484a990c9",
+    "order_id": "ORD-000476",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-11-04",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK409879178",
+    "weight": 32.35,
+    "dimensions": {
+      "length": 70.38,
+      "width": 48.89,
+      "height": 34.51
+    }
+  },
+  {
+    "shipment_id": "96d47aa1-40a2-43e5-b3da-040409b6d643",
+    "order_id": "ORD-000405",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-09-29",
+    "actual_delivery_date": "2025-09-27",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK255955934",
+    "weight": 1.35,
+    "dimensions": {
+      "length": 132.94,
+      "width": 44.11,
+      "height": 34.4
+    }
+  },
+  {
+    "shipment_id": "78afb73f-ac98-46f1-9840-529bb581d6af",
+    "order_id": "ORD-000381",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK831800331",
+    "weight": 86.9,
+    "dimensions": {
+      "length": 50.21,
+      "width": 50.47,
+      "height": 48.75
+    }
+  },
+  {
+    "shipment_id": "5c11598c-2824-43bc-8c8c-2d17092eb79a",
+    "order_id": "ORD-000136",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-09",
+    "estimated_delivery_date": "2025-10-15",
+    "actual_delivery_date": "2025-10-17",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK181843692",
+    "weight": 8.03,
+    "dimensions": {
+      "length": 84.64,
+      "width": 16.92,
+      "height": 36.7
+    }
+  },
+  {
+    "shipment_id": "3ca589f8-658a-45cf-94a2-4ec0aa3385d0",
+    "order_id": "ORD-000137",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-10",
+    "estimated_delivery_date": "2025-09-18",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK996589061",
+    "weight": 55.36,
+    "dimensions": {
+      "length": 197.14,
+      "width": 51.9,
+      "height": 33.52
+    }
+  },
+  {
+    "shipment_id": "820d9c99-ff0b-4035-8b57-5aecd2d98c56",
+    "order_id": "ORD-000285",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-13",
+    "estimated_delivery_date": "2025-09-21",
+    "actual_delivery_date": "2025-09-25",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK721321569",
+    "weight": 74.79,
+    "dimensions": {
+      "length": 22.87,
+      "width": 62.22,
+      "height": 42.47
+    }
+  },
+  {
+    "shipment_id": "a3e9a70c-8169-4cac-8a28-6beebc3b55fc",
+    "order_id": "ORD-000058",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-20",
+    "estimated_delivery_date": "2025-09-24",
+    "actual_delivery_date": "2025-09-24",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK102947338",
+    "weight": 89.7,
+    "dimensions": {
+      "length": 130.93,
+      "width": 24.02,
+      "height": 22.51
+    }
+  },
+  {
+    "shipment_id": "ba218eb3-72f1-4952-a01e-ec1191933564",
+    "order_id": "ORD-000147",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-23",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": "2025-10-28",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK237004768",
+    "weight": 7.81,
+    "dimensions": {
+      "length": 167.63,
+      "width": 66.57,
+      "height": 31.69
+    }
+  },
+  {
+    "shipment_id": "2d413484-1b3b-42ae-a308-8853f8ac292c",
+    "order_id": "ORD-000100",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-06",
+    "estimated_delivery_date": "2025-10-10",
+    "actual_delivery_date": "2025-10-07",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK480141823",
+    "weight": 20.27,
+    "dimensions": {
+      "length": 14.29,
+      "width": 84.51,
+      "height": 42.75
+    }
+  },
+  {
+    "shipment_id": "ca3bd90e-b755-4175-bdb8-8508ba493382",
+    "order_id": "ORD-000386",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-04",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK769238291",
+    "weight": 41.47,
+    "dimensions": {
+      "length": 91.12,
+      "width": 84.45,
+      "height": 7.38
+    }
+  },
+  {
+    "shipment_id": "d4c3235a-c63d-469a-b218-03c57b6ee2b9",
+    "order_id": "ORD-000142",
+    "carrier_id": "DPD",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-22",
+    "estimated_delivery_date": "2025-10-06",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK221217995",
+    "weight": 45.23,
+    "dimensions": {
+      "length": 35.92,
+      "width": 64.33,
+      "height": 17.86
+    }
+  },
+  {
+    "shipment_id": "d6900ddf-f4fb-4ae1-a975-e6279b333c22",
+    "order_id": "ORD-000480",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-17",
+    "estimated_delivery_date": "2025-09-23",
+    "actual_delivery_date": "2025-09-26",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK419268638",
+    "weight": 84.1,
+    "dimensions": {
+      "length": 140.74,
+      "width": 96.05,
+      "height": 13.74
+    }
+  },
+  {
+    "shipment_id": "7db34936-9580-4337-abae-a7001d69f472",
+    "order_id": "ORD-000040",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-18",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": "2025-10-26",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK379799510",
+    "weight": 13.42,
+    "dimensions": {
+      "length": 78.6,
+      "width": 36.94,
+      "height": 47.73
+    }
+  },
+  {
+    "shipment_id": "b3a86c03-94fc-44f5-8244-9e53dbc66afe",
+    "order_id": "ORD-000283",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-29",
+    "estimated_delivery_date": "2025-09-05",
+    "actual_delivery_date": "2025-09-05",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK531392403",
+    "weight": 73.39,
+    "dimensions": {
+      "length": 154.96,
+      "width": 82.65,
+      "height": 10.8
+    }
+  },
+  {
+    "shipment_id": "cf5480b0-2519-4aba-9bf7-bf0421cdf3b3",
+    "order_id": "ORD-000308",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": "2025-09-01",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK983992380",
+    "weight": 33.06,
+    "dimensions": {
+      "length": 69.75,
+      "width": 38.36,
+      "height": 5.88
+    }
+  },
+  {
+    "shipment_id": "4f135d07-3919-40f9-8aac-0c2db9e45eed",
+    "order_id": "ORD-000120",
+    "carrier_id": "UPS",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-27",
+    "estimated_delivery_date": "2025-09-28",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK423633791",
+    "weight": 18.58,
+    "dimensions": {
+      "length": 70.43,
+      "width": 33.82,
+      "height": 31.72
+    }
+  },
+  {
+    "shipment_id": "8f1d5c69-ec04-4f82-85df-aefe81dc2e5b",
+    "order_id": "ORD-000063",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-09-27",
+    "actual_delivery_date": "2025-09-26",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK728023473",
+    "weight": 14.87,
+    "dimensions": {
+      "length": 65.7,
+      "width": 82.55,
+      "height": 40.94
+    }
+  },
+  {
+    "shipment_id": "925c4fce-b983-4e5c-bf0c-09325bb29041",
+    "order_id": "ORD-000424",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-08-25",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": "2025-09-07",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK626244387",
+    "weight": 23.16,
+    "dimensions": {
+      "length": 178.47,
+      "width": 81.9,
+      "height": 6.63
+    }
+  },
+  {
+    "shipment_id": "4308306b-2c17-4346-b576-f38ac20781f6",
+    "order_id": "ORD-000007",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-04",
+    "estimated_delivery_date": "2025-09-15",
+    "actual_delivery_date": "2025-09-14",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK285792247",
+    "weight": 6.15,
+    "dimensions": {
+      "length": 178.88,
+      "width": 70.95,
+      "height": 15.46
+    }
+  },
+  {
+    "shipment_id": "5d33beb5-7c3e-487a-94d1-344442e9a725",
+    "order_id": "ORD-000060",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-15",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK758003562",
+    "weight": 80.63,
+    "dimensions": {
+      "length": 86.2,
+      "width": 49.23,
+      "height": 16.11
+    }
+  },
+  {
+    "shipment_id": "7270295b-7b09-45ab-bb7d-925fbf2baf0e",
+    "order_id": "ORD-000312",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-08-28",
+    "actual_delivery_date": "2025-08-28",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK711322513",
+    "weight": 85.2,
+    "dimensions": {
+      "length": 165.66,
+      "width": 62.48,
+      "height": 12.28
+    }
+  },
+  {
+    "shipment_id": "9602ad92-b24a-4ae9-a53d-80778cab954a",
+    "order_id": "ORD-000400",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-03",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": "2025-10-20",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK743908144",
+    "weight": 41.59,
+    "dimensions": {
+      "length": 71.06,
+      "width": 50.05,
+      "height": 38.16
+    }
+  },
+  {
+    "shipment_id": "322f4f99-6176-43e7-aaf2-e7e2a0e5fa45",
+    "order_id": "ORD-000383",
+    "carrier_id": "FedEx",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-22",
+    "estimated_delivery_date": "2025-09-27",
+    "actual_delivery_date": "2025-09-27",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK752118967",
+    "weight": 77.24,
+    "dimensions": {
+      "length": 196.01,
+      "width": 92.64,
+      "height": 30.28
+    }
+  },
+  {
+    "shipment_id": "55195597-886e-4267-9458-50356933d8da",
+    "order_id": "ORD-000218",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-06",
+    "estimated_delivery_date": "2025-09-08",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK852893109",
+    "weight": 11.89,
+    "dimensions": {
+      "length": 157.66,
+      "width": 76.23,
+      "height": 34.58
+    }
+  },
+  {
+    "shipment_id": "c8d454fc-a5d2-4d56-87eb-e5a3329461e0",
+    "order_id": "ORD-000483",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-06",
+    "estimated_delivery_date": "2025-10-09",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK705741835",
+    "weight": 79.45,
+    "dimensions": {
+      "length": 161.85,
+      "width": 52.34,
+      "height": 43.98
+    }
+  },
+  {
+    "shipment_id": "f493e10c-5b44-4cab-af84-8e261fe55568",
+    "order_id": "ORD-000404",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-02",
+    "estimated_delivery_date": "2025-09-04",
+    "actual_delivery_date": "2025-09-09",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK389275885",
+    "weight": 67.27,
+    "dimensions": {
+      "length": 79.59,
+      "width": 16.37,
+      "height": 15.27
+    }
+  },
+  {
+    "shipment_id": "2cd63d79-cf55-4bb6-8408-828f3167a243",
+    "order_id": "ORD-000137",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-12",
+    "estimated_delivery_date": "2025-09-17",
+    "actual_delivery_date": "2025-09-14",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK875967821",
+    "weight": 4.82,
+    "dimensions": {
+      "length": 71.25,
+      "width": 49.51,
+      "height": 7.9
+    }
+  },
+  {
+    "shipment_id": "4e25ed58-8559-4020-8a01-4c7d9722cc3b",
+    "order_id": "ORD-000219",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-30",
+    "estimated_delivery_date": "2025-10-08",
+    "actual_delivery_date": "2025-10-07",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK400396233",
+    "weight": 86.56,
+    "dimensions": {
+      "length": 80.72,
+      "width": 21.33,
+      "height": 20.68
+    }
+  },
+  {
+    "shipment_id": "ea8b8b8d-1839-4ea1-891d-11a115c17dcb",
+    "order_id": "ORD-000095",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-15",
+    "estimated_delivery_date": "2025-10-27",
+    "actual_delivery_date": "2025-10-28",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK199364948",
+    "weight": 28.26,
+    "dimensions": {
+      "length": 130.63,
+      "width": 18.54,
+      "height": 30.07
+    }
+  },
+  {
+    "shipment_id": "5bdd1231-6bb5-4b7b-8d2f-69e048de34c8",
+    "order_id": "ORD-000238",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-20",
+    "estimated_delivery_date": "2025-10-31",
+    "actual_delivery_date": "2025-11-03",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK140345322",
+    "weight": 49.88,
+    "dimensions": {
+      "length": 168.49,
+      "width": 68.14,
+      "height": 46.55
+    }
+  },
+  {
+    "shipment_id": "50f13b8c-c699-4b95-8442-2701427d1858",
+    "order_id": "ORD-000094",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-11",
+    "estimated_delivery_date": "2025-09-21",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK216916858",
+    "weight": 73.1,
+    "dimensions": {
+      "length": 41.04,
+      "width": 80.56,
+      "height": 30.43
+    }
+  },
+  {
+    "shipment_id": "1897ff13-bdb8-4374-92c2-ebeb6882652b",
+    "order_id": "ORD-000135",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-13",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK989715825",
+    "weight": 90.72,
+    "dimensions": {
+      "length": 143.66,
+      "width": 76.77,
+      "height": 15.58
+    }
+  },
+  {
+    "shipment_id": "0e0dd762-99b7-4308-8a5a-cc62027adbd6",
+    "order_id": "ORD-000282",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-31",
+    "estimated_delivery_date": "2025-09-14",
+    "actual_delivery_date": "2025-09-13",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK502625385",
+    "weight": 52.09,
+    "dimensions": {
+      "length": 82.08,
+      "width": 36.7,
+      "height": 37.76
+    }
+  },
+  {
+    "shipment_id": "5ce9d2b2-5f76-4c02-a9b8-570847b605b7",
+    "order_id": "ORD-000112",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-29",
+    "actual_delivery_date": "2025-10-27",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK323320292",
+    "weight": 4.15,
+    "dimensions": {
+      "length": 180.51,
+      "width": 31.73,
+      "height": 19.82
+    }
+  },
+  {
+    "shipment_id": "afe4af63-4808-4882-8d1e-dd9e2f4dc772",
+    "order_id": "ORD-000364",
+    "carrier_id": "DPD",
+    "route_id": "US-001",
+    "shipment_date": "2025-09-07",
+    "estimated_delivery_date": "2025-09-14",
+    "actual_delivery_date": "2025-09-13",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK817566663",
+    "weight": 34.38,
+    "dimensions": {
+      "length": 31.81,
+      "width": 97.95,
+      "height": 8.14
+    }
+  },
+  {
+    "shipment_id": "0bb0645d-ef46-46fb-aa93-f8f9c72a2cfd",
+    "order_id": "ORD-000010",
+    "carrier_id": "DPD",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-15",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": "2025-11-01",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK500312905",
+    "weight": 99.05,
+    "dimensions": {
+      "length": 77.55,
+      "width": 49.87,
+      "height": 25.37
+    }
+  },
+  {
+    "shipment_id": "da0f365f-5c3f-4fe4-965b-9aae2e9cbb1d",
+    "order_id": "ORD-000311",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-08-27",
+    "estimated_delivery_date": "2025-09-10",
+    "actual_delivery_date": "2025-09-14",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK412296479",
+    "weight": 66.03,
+    "dimensions": {
+      "length": 30.14,
+      "width": 14.9,
+      "height": 25.54
+    }
+  },
+  {
+    "shipment_id": "1555647a-282b-440d-ab2f-0d48ed84b267",
+    "order_id": "ORD-000014",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-11",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK240756561",
+    "weight": 40.2,
+    "dimensions": {
+      "length": 24.95,
+      "width": 34.28,
+      "height": 27.17
+    }
+  },
+  {
+    "shipment_id": "21c9636c-b1a9-4222-85be-2625ffe85434",
+    "order_id": "ORD-000213",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-08-30",
+    "estimated_delivery_date": "2025-09-02",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK465972512",
+    "weight": 6.65,
+    "dimensions": {
+      "length": 170.17,
+      "width": 65.81,
+      "height": 22.56
+    }
+  },
+  {
+    "shipment_id": "232a12b7-5342-4176-b172-d0af0697c545",
+    "order_id": "ORD-000315",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-10",
+    "estimated_delivery_date": "2025-10-17",
+    "actual_delivery_date": null,
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK328399550",
+    "weight": 47.01,
+    "dimensions": {
+      "length": 165.71,
+      "width": 19.49,
+      "height": 18.42
+    }
+  },
+  {
+    "shipment_id": "844a7ac7-27ed-4f9b-9baf-c3b875fe99d2",
+    "order_id": "ORD-000440",
+    "carrier_id": "DHL",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-23",
+    "estimated_delivery_date": "2025-10-02",
+    "actual_delivery_date": "2025-09-29",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK202840521",
+    "weight": 87.62,
+    "dimensions": {
+      "length": 92.49,
+      "width": 51.38,
+      "height": 47.33
+    }
+  },
+  {
+    "shipment_id": "0df71ceb-ff34-426e-8e26-557573db592b",
+    "order_id": "ORD-000321",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": null,
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK636756351",
+    "weight": 79.73,
+    "dimensions": {
+      "length": 173.98,
+      "width": 39.35,
+      "height": 31.12
+    }
+  },
+  {
+    "shipment_id": "a8370222-2d52-46bb-a979-1e3f63c93a16",
+    "order_id": "ORD-000159",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-10-01",
+    "actual_delivery_date": "2025-09-29",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK500203567",
+    "weight": 75.5,
+    "dimensions": {
+      "length": 182.21,
+      "width": 62.51,
+      "height": 27.14
+    }
+  },
+  {
+    "shipment_id": "bee1c3f5-56d1-4a44-81c9-1f8948785868",
+    "order_id": "ORD-000254",
+    "carrier_id": "TNT",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-14",
+    "estimated_delivery_date": "2025-10-27",
+    "actual_delivery_date": "2025-11-01",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK877097987",
+    "weight": 44.64,
+    "dimensions": {
+      "length": 141.03,
+      "width": 83.48,
+      "height": 6.07
+    }
+  },
+  {
+    "shipment_id": "a14e6c7c-854c-4200-a255-a32b62589cca",
+    "order_id": "ORD-000227",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-10-03",
+    "actual_delivery_date": "2025-10-05",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK328591583",
+    "weight": 28.1,
+    "dimensions": {
+      "length": 120.24,
+      "width": 75.82,
+      "height": 15.27
+    }
+  },
+  {
+    "shipment_id": "6ec35d07-5f87-4bd5-a20a-8a01d62c37c8",
+    "order_id": "ORD-000099",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-24",
+    "estimated_delivery_date": "2025-09-26",
+    "actual_delivery_date": null,
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK252229359",
+    "weight": 3.4,
+    "dimensions": {
+      "length": 48.62,
+      "width": 53.58,
+      "height": 47.99
+    }
+  },
+  {
+    "shipment_id": "8de1743d-4f77-4feb-884b-aeb3baeed7e5",
+    "order_id": "ORD-000066",
+    "carrier_id": "DHL",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-21",
+    "estimated_delivery_date": "2025-10-22",
+    "actual_delivery_date": "2025-10-20",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK903030660",
+    "weight": 10.47,
+    "dimensions": {
+      "length": 117.0,
+      "width": 16.87,
+      "height": 29.26
+    }
+  },
+  {
+    "shipment_id": "7dfcaf4d-1353-459f-9a2d-94f1f57ead34",
+    "order_id": "ORD-000103",
+    "carrier_id": "TNT",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-20",
+    "estimated_delivery_date": "2025-11-01",
+    "actual_delivery_date": "2025-11-03",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK506559739",
+    "weight": 58.58,
+    "dimensions": {
+      "length": 60.74,
+      "width": 20.27,
+      "height": 35.73
+    }
+  },
+  {
+    "shipment_id": "b3d5e021-729e-49db-a391-d5ba75294638",
+    "order_id": "ORD-000068",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-12",
+    "estimated_delivery_date": "2025-09-13",
+    "actual_delivery_date": "2025-09-13",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK254254317",
+    "weight": 66.73,
+    "dimensions": {
+      "length": 192.34,
+      "width": 91.2,
+      "height": 32.78
+    }
+  },
+  {
+    "shipment_id": "5247f42a-0ac1-41b9-95ec-8704eb71901d",
+    "order_id": "ORD-000326",
+    "carrier_id": "TNT",
+    "route_id": "EU-002",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-11-04",
+    "actual_delivery_date": "2025-11-02",
+    "shipment_status": "Delivered",
+    "tracking_number": "TRK702270531",
+    "weight": 61.84,
+    "dimensions": {
+      "length": 188.92,
+      "width": 32.54,
+      "height": 36.8
+    }
+  },
+  {
+    "shipment_id": "9c30911a-9678-4487-a3f4-c4b42cb5db21",
+    "order_id": "ORD-000376",
+    "carrier_id": "DPD",
+    "route_id": "EU-002",
+    "shipment_date": "2025-09-07",
+    "estimated_delivery_date": "2025-09-15",
+    "actual_delivery_date": "2025-09-13",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK567575200",
+    "weight": 18.66,
+    "dimensions": {
+      "length": 54.83,
+      "width": 82.2,
+      "height": 6.23
+    }
+  },
+  {
+    "shipment_id": "9c6e364b-94bd-43a2-8ad2-e8bed46bfa7b",
+    "order_id": "ORD-000387",
+    "carrier_id": "TNT",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-22",
+    "estimated_delivery_date": "2025-10-30",
+    "actual_delivery_date": "2025-11-01",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK314866985",
+    "weight": 68.1,
+    "dimensions": {
+      "length": 192.69,
+      "width": 80.27,
+      "height": 15.42
+    }
+  },
+  {
+    "shipment_id": "3f872ece-6b45-413d-af8f-e8391438f070",
+    "order_id": "ORD-000072",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-09-28",
+    "estimated_delivery_date": "2025-10-07",
+    "actual_delivery_date": "2025-10-06",
+    "shipment_status": "Processing",
+    "tracking_number": "TRK835090884",
+    "weight": 11.55,
+    "dimensions": {
+      "length": 166.51,
+      "width": 21.97,
+      "height": 17.17
+    }
+  },
+  {
+    "shipment_id": "42cb9307-ad6f-4997-8caf-da6a0fb4f4a5",
+    "order_id": "ORD-000486",
+    "carrier_id": "TNT",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-28",
+    "actual_delivery_date": "2025-10-29",
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK907264036",
+    "weight": 10.12,
+    "dimensions": {
+      "length": 154.74,
+      "width": 10.17,
+      "height": 10.36
+    }
+  },
+  {
+    "shipment_id": "9a77a992-10d7-482a-9341-d571c87e525a",
+    "order_id": "ORD-000424",
+    "carrier_id": "DHL",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-17",
+    "estimated_delivery_date": "2025-10-20",
+    "actual_delivery_date": "2025-10-21",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK561105803",
+    "weight": 20.03,
+    "dimensions": {
+      "length": 58.25,
+      "width": 19.72,
+      "height": 12.14
+    }
+  },
+  {
+    "shipment_id": "da416cf5-49e9-436c-9fc2-8cee702c039b",
+    "order_id": "ORD-000309",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-19",
+    "estimated_delivery_date": "2025-10-23",
+    "actual_delivery_date": "2025-10-24",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK225907245",
+    "weight": 88.52,
+    "dimensions": {
+      "length": 92.37,
+      "width": 50.48,
+      "height": 6.15
+    }
+  },
+  {
+    "shipment_id": "693e0078-458a-4a24-a0a5-4781e3b84a99",
+    "order_id": "ORD-000409",
+    "carrier_id": "UPS",
+    "route_id": "EU-001",
+    "shipment_date": "2025-10-13",
+    "estimated_delivery_date": "2025-10-26",
+    "actual_delivery_date": "2025-10-24",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK476291023",
+    "weight": 7.19,
+    "dimensions": {
+      "length": 36.74,
+      "width": 43.17,
+      "height": 6.79
+    }
+  },
+  {
+    "shipment_id": "caf5b48e-5718-47a7-b705-27d10981195c",
+    "order_id": "ORD-000395",
+    "carrier_id": "DHL",
+    "route_id": "EU-001",
+    "shipment_date": "2025-09-15",
+    "estimated_delivery_date": "2025-09-27",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK634297285",
+    "weight": 12.86,
+    "dimensions": {
+      "length": 188.59,
+      "width": 26.35,
+      "height": 19.92
+    }
+  },
+  {
+    "shipment_id": "ab3438ce-a166-423d-b97b-81bd23b52113",
+    "order_id": "ORD-000465",
+    "carrier_id": "DPD",
+    "route_id": "AF-001",
+    "shipment_date": "2025-10-09",
+    "estimated_delivery_date": "2025-10-16",
+    "actual_delivery_date": "2025-10-19",
+    "shipment_status": "In Transit",
+    "tracking_number": "TRK377255804",
+    "weight": 85.53,
+    "dimensions": {
+      "length": 129.82,
+      "width": 95.41,
+      "height": 22.69
+    }
+  },
+  {
+    "shipment_id": "e2a2e8eb-a1f8-4344-b316-25ab5fd422c0",
+    "order_id": "ORD-000254",
+    "carrier_id": "FedEx",
+    "route_id": "US-001",
+    "shipment_date": "2025-10-18",
+    "estimated_delivery_date": "2025-10-25",
+    "actual_delivery_date": null,
+    "shipment_status": "Delayed",
+    "tracking_number": "TRK841131954",
+    "weight": 4.14,
+    "dimensions": {
+      "length": 137.34,
+      "width": 14.87,
+      "height": 44.34
+    }
+  },
+  {
+    "shipment_id": "4fd8dbf3-1e2b-41f8-b419-395cb51d12d9",
+    "order_id": "ORD-000069",
+    "carrier_id": "UPS",
+    "route_id": "AS-001",
+    "shipment_date": "2025-10-12",
+    "estimated_delivery_date": "2025-10-22",
+    "actual_delivery_date": null,
+    "shipment_status": "Processing",
+    "tracking_number": "TRK357661076",
+    "weight": 89.27,
+    "dimensions": {
+      "length": 101.9,
+      "width": 51.58,
+      "height": 37.3
+    }
+  },
+  {
+    "shipment_id": "4ecb3124-de3f-42c3-bd89-5b24c4a32c8a",
+    "order_id": "ORD-000040",
+    "carrier_id": "DHL",
+    "route_id": "AS-001",
+    "shipment_date": "2025-09-05",
+    "estimated_delivery_date": "2025-09-15",
+    "actual_delivery_date": "2025-09-16",
+    "shipment_status": "Out for Delivery",
+    "tracking_number": "TRK598455269",
+    "weight": 60.42,
+    "dimensions": {
+      "length": 25.77,
+      "width": 35.44,
+      "height": 32.05
+    }
+  }
+]

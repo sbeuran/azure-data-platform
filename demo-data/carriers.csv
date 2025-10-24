@@ -1,0 +1,6 @@
+carrier_id,carrier_name,carrier_type,contact_info,service_level,reliability_score
+DHL,DHL Express,Express,"{'phone': '+49-30-12345678', 'email': 'contact@dhl.com'}",Express,0.95
+FedEx,FedEx Corporation,Express,"{'phone': '+49-30-87654321', 'email': 'contact@fedex.com'}",Express,0.92
+UPS,United Parcel Service,Standard,"{'phone': '+49-30-11223344', 'email': 'contact@ups.com'}",Standard,0.88
+TNT,TNT Express,Economy,"{'phone': '+49-30-55667788', 'email': 'contact@tnt.com'}",Economy,0.85
+DPD,DPD Group,Standard,"{'phone': '+49-30-99887766', 'email': 'contact@dpd.com'}",Standard,0.9

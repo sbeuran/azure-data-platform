@@ -1,0 +1,5002 @@
+[
+  {
+    "order_id": "ORD-000001",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000047",
+    "order_quantity": 223.91,
+    "order_date": "2025-09-06",
+    "delivery_date": "2025-09-08",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000002",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000036",
+    "order_quantity": 320.89,
+    "order_date": "2025-09-01",
+    "delivery_date": "2025-09-13",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000003",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000028",
+    "order_quantity": 327.86,
+    "order_date": "2025-08-28",
+    "delivery_date": "2025-09-18",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000004",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000029",
+    "order_quantity": 935.01,
+    "order_date": "2025-08-11",
+    "delivery_date": "2025-08-22",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000005",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000072",
+    "order_quantity": 133.37,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-10-13",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000006",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000039",
+    "order_quantity": 198.31,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-10-15",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000007",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000048",
+    "order_quantity": 940.47,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-10-16",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000008",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000031",
+    "order_quantity": 367.31,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-10-22",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000009",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000046",
+    "order_quantity": 705.46,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-02",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000010",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000053",
+    "order_quantity": 100.84,
+    "order_date": "2025-10-16",
+    "delivery_date": "2025-10-29",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000011",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000042",
+    "order_quantity": 986.07,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-30",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000012",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000066",
+    "order_quantity": 582.94,
+    "order_date": "2025-09-22",
+    "delivery_date": "2025-10-09",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000013",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000002",
+    "order_quantity": 861.32,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-10-25",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000014",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000007",
+    "order_quantity": 474.95,
+    "order_date": "2025-10-17",
+    "delivery_date": "2025-11-04",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000015",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000059",
+    "order_quantity": 958.47,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-10-08",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000016",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000031",
+    "order_quantity": 883.14,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-08",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000017",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000097",
+    "order_quantity": 233.75,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-21",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000018",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000090",
+    "order_quantity": 712.21,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-11-20",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000019",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000096",
+    "order_quantity": 581.12,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-11-04",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000020",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000025",
+    "order_quantity": 715.81,
+    "order_date": "2025-08-03",
+    "delivery_date": "2025-08-19",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000021",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000025",
+    "order_quantity": 993.86,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-30",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000022",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000029",
+    "order_quantity": 491.24,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-10-31",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000023",
+    "customer_id": "CUST-0023",
+    "material_id": "MAT-000042",
+    "order_quantity": 901.59,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-21",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000024",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000058",
+    "order_quantity": 904.19,
+    "order_date": "2025-09-01",
+    "delivery_date": "2025-09-12",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000025",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000017",
+    "order_quantity": 69.05,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-16",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000026",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000069",
+    "order_quantity": 259.17,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-23",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000027",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000035",
+    "order_quantity": 661.56,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-09-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000028",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000057",
+    "order_quantity": 573.28,
+    "order_date": "2025-07-31",
+    "delivery_date": "2025-08-09",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000029",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000082",
+    "order_quantity": 430.61,
+    "order_date": "2025-08-21",
+    "delivery_date": "2025-08-31",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000030",
+    "customer_id": "CUST-0023",
+    "material_id": "MAT-000095",
+    "order_quantity": 607.22,
+    "order_date": "2025-09-05",
+    "delivery_date": "2025-09-25",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000031",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000084",
+    "order_quantity": 903.89,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-08-19",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000032",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000046",
+    "order_quantity": 608.0,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-08-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000033",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000064",
+    "order_quantity": 633.08,
+    "order_date": "2025-08-06",
+    "delivery_date": "2025-08-23",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000034",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000067",
+    "order_quantity": 175.86,
+    "order_date": "2025-10-20",
+    "delivery_date": "2025-10-29",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000035",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000090",
+    "order_quantity": 523.05,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-14",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000036",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000049",
+    "order_quantity": 889.74,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000037",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000008",
+    "order_quantity": 974.17,
+    "order_date": "2025-08-02",
+    "delivery_date": "2025-08-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000038",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000056",
+    "order_quantity": 211.07,
+    "order_date": "2025-08-27",
+    "delivery_date": "2025-09-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000039",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000037",
+    "order_quantity": 243.49,
+    "order_date": "2025-09-24",
+    "delivery_date": "2025-10-01",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000040",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000027",
+    "order_quantity": 824.62,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-11-06",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000041",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000004",
+    "order_quantity": 291.09,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-05",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000042",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000058",
+    "order_quantity": 293.32,
+    "order_date": "2025-09-10",
+    "delivery_date": "2025-09-27",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000043",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000042",
+    "order_quantity": 616.41,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-19",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000044",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000077",
+    "order_quantity": 47.5,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-25",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000045",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000098",
+    "order_quantity": 814.42,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-08-30",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000046",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000013",
+    "order_quantity": 883.44,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-25",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000047",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000072",
+    "order_quantity": 480.02,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-10",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000048",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000095",
+    "order_quantity": 696.59,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-09-10",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000049",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000015",
+    "order_quantity": 797.9,
+    "order_date": "2025-09-27",
+    "delivery_date": "2025-10-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000050",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000011",
+    "order_quantity": 998.08,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-09-17",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000051",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000085",
+    "order_quantity": 55.48,
+    "order_date": "2025-09-02",
+    "delivery_date": "2025-09-29",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000052",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000037",
+    "order_quantity": 241.64,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-18",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000053",
+    "customer_id": "CUST-0011",
+    "material_id": "MAT-000077",
+    "order_quantity": 517.06,
+    "order_date": "2025-09-04",
+    "delivery_date": "2025-09-10",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000054",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000031",
+    "order_quantity": 294.62,
+    "order_date": "2025-09-10",
+    "delivery_date": "2025-10-04",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000055",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000097",
+    "order_quantity": 901.7,
+    "order_date": "2025-09-24",
+    "delivery_date": "2025-10-13",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000056",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000096",
+    "order_quantity": 151.37,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-13",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000057",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000073",
+    "order_quantity": 249.6,
+    "order_date": "2025-08-10",
+    "delivery_date": "2025-08-13",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000058",
+    "customer_id": "CUST-0011",
+    "material_id": "MAT-000002",
+    "order_quantity": 600.11,
+    "order_date": "2025-10-10",
+    "delivery_date": "2025-11-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000059",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000037",
+    "order_quantity": 328.23,
+    "order_date": "2025-09-04",
+    "delivery_date": "2025-09-28",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000060",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000034",
+    "order_quantity": 624.44,
+    "order_date": "2025-08-21",
+    "delivery_date": "2025-08-24",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000061",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000019",
+    "order_quantity": 317.3,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-10-01",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000062",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000031",
+    "order_quantity": 19.86,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-10-07",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000063",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000023",
+    "order_quantity": 313.61,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-26",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000064",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000019",
+    "order_quantity": 451.84,
+    "order_date": "2025-08-23",
+    "delivery_date": "2025-09-12",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000065",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000069",
+    "order_quantity": 279.09,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-10-16",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000066",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000087",
+    "order_quantity": 847.16,
+    "order_date": "2025-10-15",
+    "delivery_date": "2025-11-05",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000067",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000087",
+    "order_quantity": 172.93,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-16",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000068",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000028",
+    "order_quantity": 789.16,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-08-27",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000069",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000056",
+    "order_quantity": 269.46,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-09-20",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000070",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000040",
+    "order_quantity": 126.91,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-10-02",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000071",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000029",
+    "order_quantity": 743.97,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-08-24",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000072",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000004",
+    "order_quantity": 521.83,
+    "order_date": "2025-09-14",
+    "delivery_date": "2025-10-10",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000073",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000050",
+    "order_quantity": 11.19,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-14",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000074",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000030",
+    "order_quantity": 434.77,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-09-01",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000075",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000005",
+    "order_quantity": 416.91,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-28",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000076",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000025",
+    "order_quantity": 568.09,
+    "order_date": "2025-09-19",
+    "delivery_date": "2025-10-07",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000077",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000086",
+    "order_quantity": 341.83,
+    "order_date": "2025-08-01",
+    "delivery_date": "2025-08-03",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000078",
+    "customer_id": "CUST-0004",
+    "material_id": "MAT-000062",
+    "order_quantity": 251.27,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-10-02",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000079",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000079",
+    "order_quantity": 879.27,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-09-24",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000080",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000028",
+    "order_quantity": 657.0,
+    "order_date": "2025-09-01",
+    "delivery_date": "2025-09-15",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000081",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000075",
+    "order_quantity": 765.72,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-24",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000082",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000037",
+    "order_quantity": 985.52,
+    "order_date": "2025-09-11",
+    "delivery_date": "2025-09-27",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000083",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000029",
+    "order_quantity": 569.41,
+    "order_date": "2025-08-21",
+    "delivery_date": "2025-09-14",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000084",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000006",
+    "order_quantity": 374.28,
+    "order_date": "2025-09-09",
+    "delivery_date": "2025-10-04",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000085",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000004",
+    "order_quantity": 168.79,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-28",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000086",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000070",
+    "order_quantity": 792.38,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-09-23",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000087",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000032",
+    "order_quantity": 14.17,
+    "order_date": "2025-08-05",
+    "delivery_date": "2025-08-28",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000088",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000045",
+    "order_quantity": 14.42,
+    "order_date": "2025-08-24",
+    "delivery_date": "2025-09-23",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000089",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000086",
+    "order_quantity": 861.87,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-22",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000090",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000034",
+    "order_quantity": 921.93,
+    "order_date": "2025-08-11",
+    "delivery_date": "2025-08-18",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000091",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000032",
+    "order_quantity": 963.97,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-10-16",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000092",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000007",
+    "order_quantity": 920.01,
+    "order_date": "2025-09-29",
+    "delivery_date": "2025-10-19",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000093",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000092",
+    "order_quantity": 974.73,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-10-09",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000094",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000084",
+    "order_quantity": 741.96,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-29",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000095",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000081",
+    "order_quantity": 435.88,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-09-03",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000096",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000090",
+    "order_quantity": 431.21,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-08-27",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000097",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000036",
+    "order_quantity": 212.15,
+    "order_date": "2025-09-23",
+    "delivery_date": "2025-10-01",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000098",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000065",
+    "order_quantity": 992.52,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-19",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000099",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000093",
+    "order_quantity": 544.78,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-14",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000100",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000005",
+    "order_quantity": 943.72,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-09-29",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000101",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000007",
+    "order_quantity": 492.62,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-11-14",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000102",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000012",
+    "order_quantity": 162.46,
+    "order_date": "2025-08-02",
+    "delivery_date": "2025-08-21",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000103",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000098",
+    "order_quantity": 812.47,
+    "order_date": "2025-08-01",
+    "delivery_date": "2025-08-31",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000104",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000051",
+    "order_quantity": 160.73,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-27",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000105",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000047",
+    "order_quantity": 314.33,
+    "order_date": "2025-08-10",
+    "delivery_date": "2025-08-11",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000106",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000041",
+    "order_quantity": 729.85,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-10-23",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000107",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000047",
+    "order_quantity": 73.33,
+    "order_date": "2025-09-22",
+    "delivery_date": "2025-10-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000108",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000043",
+    "order_quantity": 568.93,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-10-04",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000109",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000027",
+    "order_quantity": 889.39,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-09-27",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000110",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000024",
+    "order_quantity": 635.37,
+    "order_date": "2025-09-14",
+    "delivery_date": "2025-09-30",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000111",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000090",
+    "order_quantity": 356.64,
+    "order_date": "2025-07-31",
+    "delivery_date": "2025-08-01",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000112",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000007",
+    "order_quantity": 291.36,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-26",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000113",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000023",
+    "order_quantity": 653.44,
+    "order_date": "2025-10-11",
+    "delivery_date": "2025-11-02",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000114",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000065",
+    "order_quantity": 85.59,
+    "order_date": "2025-09-11",
+    "delivery_date": "2025-10-09",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000115",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000096",
+    "order_quantity": 364.13,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-15",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000116",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000055",
+    "order_quantity": 278.02,
+    "order_date": "2025-09-01",
+    "delivery_date": "2025-09-09",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000117",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000065",
+    "order_quantity": 496.73,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-10-26",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000118",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000076",
+    "order_quantity": 372.07,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-19",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000119",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000077",
+    "order_quantity": 432.01,
+    "order_date": "2025-08-22",
+    "delivery_date": "2025-09-08",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000120",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000096",
+    "order_quantity": 883.56,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-09-30",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000121",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000016",
+    "order_quantity": 203.8,
+    "order_date": "2025-09-19",
+    "delivery_date": "2025-10-09",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000122",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000059",
+    "order_quantity": 310.46,
+    "order_date": "2025-10-03",
+    "delivery_date": "2025-10-08",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000123",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000074",
+    "order_quantity": 326.86,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-18",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000124",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000069",
+    "order_quantity": 217.91,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-11-11",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000125",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000032",
+    "order_quantity": 420.02,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-25",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000126",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000090",
+    "order_quantity": 376.6,
+    "order_date": "2025-07-27",
+    "delivery_date": "2025-08-21",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000127",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000100",
+    "order_quantity": 198.39,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-09-06",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000128",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000020",
+    "order_quantity": 120.86,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-09-19",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000129",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000074",
+    "order_quantity": 109.21,
+    "order_date": "2025-10-16",
+    "delivery_date": "2025-11-11",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000130",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000003",
+    "order_quantity": 944.38,
+    "order_date": "2025-09-05",
+    "delivery_date": "2025-09-08",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000131",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000022",
+    "order_quantity": 87.96,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-07",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000132",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000051",
+    "order_quantity": 102.07,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000133",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000058",
+    "order_quantity": 998.94,
+    "order_date": "2025-07-28",
+    "delivery_date": "2025-08-23",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000134",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000022",
+    "order_quantity": 716.88,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-09-27",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000135",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000059",
+    "order_quantity": 229.05,
+    "order_date": "2025-08-24",
+    "delivery_date": "2025-09-12",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000136",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000060",
+    "order_quantity": 836.19,
+    "order_date": "2025-08-07",
+    "delivery_date": "2025-09-01",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000137",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000071",
+    "order_quantity": 170.12,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-22",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000138",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000066",
+    "order_quantity": 873.0,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-07",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000139",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000074",
+    "order_quantity": 758.17,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000140",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000033",
+    "order_quantity": 5.72,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-08-23",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000141",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000059",
+    "order_quantity": 995.55,
+    "order_date": "2025-08-14",
+    "delivery_date": "2025-08-27",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000142",
+    "customer_id": "CUST-0023",
+    "material_id": "MAT-000012",
+    "order_quantity": 60.37,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000143",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000094",
+    "order_quantity": 974.6,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000144",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000047",
+    "order_quantity": 29.02,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-09-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000145",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000028",
+    "order_quantity": 949.5,
+    "order_date": "2025-09-22",
+    "delivery_date": "2025-10-22",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000146",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000062",
+    "order_quantity": 229.87,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-08-28",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000147",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000032",
+    "order_quantity": 38.55,
+    "order_date": "2025-08-07",
+    "delivery_date": "2025-08-21",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000148",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000085",
+    "order_quantity": 41.38,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-10-06",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000149",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000013",
+    "order_quantity": 628.86,
+    "order_date": "2025-09-15",
+    "delivery_date": "2025-10-12",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000150",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000055",
+    "order_quantity": 804.34,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-04",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000151",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000004",
+    "order_quantity": 62.85,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-03",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000152",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000081",
+    "order_quantity": 648.63,
+    "order_date": "2025-07-30",
+    "delivery_date": "2025-08-13",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000153",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000030",
+    "order_quantity": 384.07,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-10-31",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000154",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000031",
+    "order_quantity": 520.69,
+    "order_date": "2025-09-26",
+    "delivery_date": "2025-10-05",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000155",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000007",
+    "order_quantity": 558.71,
+    "order_date": "2025-10-07",
+    "delivery_date": "2025-10-22",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000156",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000062",
+    "order_quantity": 511.01,
+    "order_date": "2025-09-04",
+    "delivery_date": "2025-09-28",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000157",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000081",
+    "order_quantity": 803.28,
+    "order_date": "2025-09-15",
+    "delivery_date": "2025-09-30",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000158",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000066",
+    "order_quantity": 749.6,
+    "order_date": "2025-09-16",
+    "delivery_date": "2025-09-27",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000159",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000058",
+    "order_quantity": 130.9,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-11-10",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000160",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000066",
+    "order_quantity": 717.86,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-09-04",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000161",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000026",
+    "order_quantity": 299.41,
+    "order_date": "2025-09-23",
+    "delivery_date": "2025-09-28",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000162",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000051",
+    "order_quantity": 139.95,
+    "order_date": "2025-07-31",
+    "delivery_date": "2025-08-06",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000163",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000060",
+    "order_quantity": 534.18,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-10-02",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000164",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000081",
+    "order_quantity": 41.26,
+    "order_date": "2025-09-07",
+    "delivery_date": "2025-09-27",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000165",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000014",
+    "order_quantity": 495.05,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-10-03",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000166",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000062",
+    "order_quantity": 812.61,
+    "order_date": "2025-10-10",
+    "delivery_date": "2025-10-27",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000167",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000018",
+    "order_quantity": 25.42,
+    "order_date": "2025-08-10",
+    "delivery_date": "2025-09-09",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000168",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000077",
+    "order_quantity": 992.52,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-08-15",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000169",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000062",
+    "order_quantity": 940.09,
+    "order_date": "2025-10-20",
+    "delivery_date": "2025-11-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000170",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000010",
+    "order_quantity": 122.69,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-14",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000171",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000022",
+    "order_quantity": 983.75,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-07",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000172",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000097",
+    "order_quantity": 139.06,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-10-06",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000173",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000072",
+    "order_quantity": 802.6,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-24",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000174",
+    "customer_id": "CUST-0023",
+    "material_id": "MAT-000050",
+    "order_quantity": 260.5,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-10-27",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000175",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000047",
+    "order_quantity": 469.71,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-09",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000176",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000085",
+    "order_quantity": 595.44,
+    "order_date": "2025-10-11",
+    "delivery_date": "2025-10-12",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000177",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000063",
+    "order_quantity": 588.39,
+    "order_date": "2025-09-29",
+    "delivery_date": "2025-10-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000178",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000100",
+    "order_quantity": 233.38,
+    "order_date": "2025-08-11",
+    "delivery_date": "2025-08-16",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000179",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000002",
+    "order_quantity": 861.72,
+    "order_date": "2025-10-06",
+    "delivery_date": "2025-10-27",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000180",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000036",
+    "order_quantity": 465.23,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-08-30",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000181",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000055",
+    "order_quantity": 100.62,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-10-12",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000182",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000029",
+    "order_quantity": 913.39,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-09-23",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000183",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000023",
+    "order_quantity": 276.66,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-25",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000184",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000085",
+    "order_quantity": 179.23,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-09-03",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000185",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000005",
+    "order_quantity": 623.1,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-11-07",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000186",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000058",
+    "order_quantity": 478.46,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-11",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000187",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000076",
+    "order_quantity": 296.14,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-08-27",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000188",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000062",
+    "order_quantity": 643.33,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-09",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000189",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000038",
+    "order_quantity": 610.73,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-09-26",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000190",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000007",
+    "order_quantity": 262.86,
+    "order_date": "2025-09-27",
+    "delivery_date": "2025-10-03",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000191",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000092",
+    "order_quantity": 506.42,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-08-17",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000192",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000062",
+    "order_quantity": 577.6,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-09-12",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000193",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000076",
+    "order_quantity": 441.42,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-18",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000194",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000069",
+    "order_quantity": 386.74,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-09-27",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000195",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000067",
+    "order_quantity": 563.29,
+    "order_date": "2025-08-22",
+    "delivery_date": "2025-09-07",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000196",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000075",
+    "order_quantity": 301.04,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-05",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000197",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000040",
+    "order_quantity": 113.68,
+    "order_date": "2025-08-09",
+    "delivery_date": "2025-09-04",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000198",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000002",
+    "order_quantity": 595.59,
+    "order_date": "2025-10-06",
+    "delivery_date": "2025-10-22",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000199",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000093",
+    "order_quantity": 197.14,
+    "order_date": "2025-10-12",
+    "delivery_date": "2025-11-06",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000200",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000065",
+    "order_quantity": 206.59,
+    "order_date": "2025-08-09",
+    "delivery_date": "2025-09-01",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000201",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000061",
+    "order_quantity": 605.48,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-03",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000202",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000013",
+    "order_quantity": 544.96,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-26",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000203",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000056",
+    "order_quantity": 229.49,
+    "order_date": "2025-09-06",
+    "delivery_date": "2025-10-06",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000204",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000056",
+    "order_quantity": 114.79,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-02",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000205",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000008",
+    "order_quantity": 282.64,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-08-23",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000206",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000022",
+    "order_quantity": 867.09,
+    "order_date": "2025-09-27",
+    "delivery_date": "2025-10-21",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000207",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000006",
+    "order_quantity": 717.67,
+    "order_date": "2025-08-27",
+    "delivery_date": "2025-09-20",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000208",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000025",
+    "order_quantity": 627.13,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-09-10",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000209",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000060",
+    "order_quantity": 244.79,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-09-14",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000210",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000059",
+    "order_quantity": 599.0,
+    "order_date": "2025-10-09",
+    "delivery_date": "2025-11-07",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000211",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000076",
+    "order_quantity": 917.52,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-10-30",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000212",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000029",
+    "order_quantity": 114.71,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-09",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000213",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000014",
+    "order_quantity": 931.9,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-09-25",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000214",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000066",
+    "order_quantity": 306.29,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-10",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000215",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000027",
+    "order_quantity": 124.98,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-10-17",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000216",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000081",
+    "order_quantity": 598.69,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-01",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000217",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000049",
+    "order_quantity": 189.74,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-22",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000218",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000007",
+    "order_quantity": 437.22,
+    "order_date": "2025-10-01",
+    "delivery_date": "2025-10-10",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000219",
+    "customer_id": "CUST-0011",
+    "material_id": "MAT-000097",
+    "order_quantity": 16.54,
+    "order_date": "2025-09-16",
+    "delivery_date": "2025-10-08",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000220",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000032",
+    "order_quantity": 755.58,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-10-26",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000221",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000007",
+    "order_quantity": 104.47,
+    "order_date": "2025-09-02",
+    "delivery_date": "2025-09-04",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000222",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000009",
+    "order_quantity": 251.1,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-23",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000223",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000021",
+    "order_quantity": 307.58,
+    "order_date": "2025-09-05",
+    "delivery_date": "2025-09-19",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000224",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000065",
+    "order_quantity": 787.65,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-12",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000225",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000025",
+    "order_quantity": 477.15,
+    "order_date": "2025-08-21",
+    "delivery_date": "2025-09-02",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000226",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000083",
+    "order_quantity": 647.09,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-11-04",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000227",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000067",
+    "order_quantity": 81.06,
+    "order_date": "2025-09-23",
+    "delivery_date": "2025-10-17",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000228",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000039",
+    "order_quantity": 903.72,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-09-27",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000229",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000092",
+    "order_quantity": 927.43,
+    "order_date": "2025-08-09",
+    "delivery_date": "2025-08-21",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000230",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000076",
+    "order_quantity": 332.48,
+    "order_date": "2025-09-15",
+    "delivery_date": "2025-10-05",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000231",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000057",
+    "order_quantity": 906.78,
+    "order_date": "2025-09-05",
+    "delivery_date": "2025-09-28",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000232",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000069",
+    "order_quantity": 311.73,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-09-14",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000233",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000033",
+    "order_quantity": 134.05,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-11-09",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000234",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000078",
+    "order_quantity": 922.6,
+    "order_date": "2025-07-27",
+    "delivery_date": "2025-08-08",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000235",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000071",
+    "order_quantity": 541.84,
+    "order_date": "2025-10-12",
+    "delivery_date": "2025-11-07",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000236",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000051",
+    "order_quantity": 394.26,
+    "order_date": "2025-09-14",
+    "delivery_date": "2025-10-12",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000237",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000055",
+    "order_quantity": 823.64,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-10",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000238",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000050",
+    "order_quantity": 64.61,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-09-25",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000239",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000056",
+    "order_quantity": 282.68,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-11-18",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000240",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000048",
+    "order_quantity": 443.23,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-26",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000241",
+    "customer_id": "CUST-0023",
+    "material_id": "MAT-000056",
+    "order_quantity": 994.86,
+    "order_date": "2025-07-31",
+    "delivery_date": "2025-08-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000242",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000007",
+    "order_quantity": 917.89,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-10-07",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000243",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000005",
+    "order_quantity": 445.55,
+    "order_date": "2025-08-02",
+    "delivery_date": "2025-08-18",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000244",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000006",
+    "order_quantity": 683.8,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000245",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000027",
+    "order_quantity": 619.08,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-20",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000246",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000069",
+    "order_quantity": 823.64,
+    "order_date": "2025-09-10",
+    "delivery_date": "2025-09-23",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000247",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000086",
+    "order_quantity": 588.53,
+    "order_date": "2025-10-01",
+    "delivery_date": "2025-10-13",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000248",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000024",
+    "order_quantity": 461.57,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-09-29",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000249",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000087",
+    "order_quantity": 777.14,
+    "order_date": "2025-08-11",
+    "delivery_date": "2025-08-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000250",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000080",
+    "order_quantity": 506.99,
+    "order_date": "2025-10-13",
+    "delivery_date": "2025-10-18",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000251",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000055",
+    "order_quantity": 655.33,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-10-28",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000252",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000073",
+    "order_quantity": 921.36,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-08-26",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000253",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000021",
+    "order_quantity": 426.63,
+    "order_date": "2025-08-15",
+    "delivery_date": "2025-08-21",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000254",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000070",
+    "order_quantity": 188.25,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-26",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000255",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000065",
+    "order_quantity": 716.84,
+    "order_date": "2025-08-03",
+    "delivery_date": "2025-08-26",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000256",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000040",
+    "order_quantity": 663.54,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-10-15",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000257",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000063",
+    "order_quantity": 338.98,
+    "order_date": "2025-10-12",
+    "delivery_date": "2025-10-18",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000258",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000056",
+    "order_quantity": 992.26,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-09-29",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000259",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000068",
+    "order_quantity": 73.97,
+    "order_date": "2025-09-04",
+    "delivery_date": "2025-09-24",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000260",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000034",
+    "order_quantity": 375.91,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-08-27",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000261",
+    "customer_id": "CUST-0004",
+    "material_id": "MAT-000035",
+    "order_quantity": 184.27,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-09-28",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000262",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000081",
+    "order_quantity": 514.04,
+    "order_date": "2025-09-07",
+    "delivery_date": "2025-09-25",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000263",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000088",
+    "order_quantity": 391.83,
+    "order_date": "2025-07-30",
+    "delivery_date": "2025-08-02",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000264",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000022",
+    "order_quantity": 744.57,
+    "order_date": "2025-08-10",
+    "delivery_date": "2025-08-24",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000265",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000013",
+    "order_quantity": 150.18,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-08-31",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000266",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000058",
+    "order_quantity": 990.38,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-09-18",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000267",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000028",
+    "order_quantity": 951.74,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-31",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000268",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000091",
+    "order_quantity": 755.8,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-10-03",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000269",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000097",
+    "order_quantity": 131.81,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-09-06",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000270",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000003",
+    "order_quantity": 696.41,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-14",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000271",
+    "customer_id": "CUST-0004",
+    "material_id": "MAT-000005",
+    "order_quantity": 20.65,
+    "order_date": "2025-10-06",
+    "delivery_date": "2025-10-07",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000272",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000097",
+    "order_quantity": 463.44,
+    "order_date": "2025-08-06",
+    "delivery_date": "2025-08-21",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000273",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000099",
+    "order_quantity": 229.36,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-10-13",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000274",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000097",
+    "order_quantity": 713.2,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-10-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000275",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000060",
+    "order_quantity": 313.2,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-11",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000276",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000042",
+    "order_quantity": 759.77,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-08-18",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000277",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000078",
+    "order_quantity": 60.62,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-09-18",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000278",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000033",
+    "order_quantity": 657.6,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-09-05",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000279",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000067",
+    "order_quantity": 529.23,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-09-23",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000280",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000024",
+    "order_quantity": 706.14,
+    "order_date": "2025-08-13",
+    "delivery_date": "2025-08-20",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000281",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000019",
+    "order_quantity": 151.83,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-11",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000282",
+    "customer_id": "CUST-0023",
+    "material_id": "MAT-000033",
+    "order_quantity": 566.17,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-16",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000283",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000094",
+    "order_quantity": 156.13,
+    "order_date": "2025-09-16",
+    "delivery_date": "2025-10-10",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000284",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000025",
+    "order_quantity": 388.71,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-25",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000285",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000059",
+    "order_quantity": 588.15,
+    "order_date": "2025-07-27",
+    "delivery_date": "2025-08-06",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000286",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000033",
+    "order_quantity": 138.71,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-09-05",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000287",
+    "customer_id": "CUST-0006",
+    "material_id": "MAT-000086",
+    "order_quantity": 19.71,
+    "order_date": "2025-07-31",
+    "delivery_date": "2025-08-02",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000288",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000033",
+    "order_quantity": 227.38,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-09-10",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000289",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000055",
+    "order_quantity": 897.5,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-10-12",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000290",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000042",
+    "order_quantity": 262.79,
+    "order_date": "2025-10-09",
+    "delivery_date": "2025-10-26",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000291",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000022",
+    "order_quantity": 100.54,
+    "order_date": "2025-08-10",
+    "delivery_date": "2025-08-16",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000292",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000065",
+    "order_quantity": 700.1,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-10-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000293",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000025",
+    "order_quantity": 360.03,
+    "order_date": "2025-10-22",
+    "delivery_date": "2025-11-08",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000294",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000042",
+    "order_quantity": 603.02,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-09-30",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000295",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000015",
+    "order_quantity": 420.85,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-11-06",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000296",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000044",
+    "order_quantity": 217.45,
+    "order_date": "2025-08-20",
+    "delivery_date": "2025-09-07",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000297",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000052",
+    "order_quantity": 304.58,
+    "order_date": "2025-10-10",
+    "delivery_date": "2025-11-08",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000298",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000052",
+    "order_quantity": 162.62,
+    "order_date": "2025-08-18",
+    "delivery_date": "2025-09-03",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000299",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000010",
+    "order_quantity": 247.45,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-10-30",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000300",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000078",
+    "order_quantity": 236.26,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-10-31",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000301",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000003",
+    "order_quantity": 739.92,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-22",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000302",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000026",
+    "order_quantity": 898.5,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-09-24",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000303",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000004",
+    "order_quantity": 784.04,
+    "order_date": "2025-10-06",
+    "delivery_date": "2025-11-04",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000304",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000011",
+    "order_quantity": 862.03,
+    "order_date": "2025-07-30",
+    "delivery_date": "2025-08-18",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000305",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000093",
+    "order_quantity": 871.09,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-08",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000306",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000060",
+    "order_quantity": 978.75,
+    "order_date": "2025-10-13",
+    "delivery_date": "2025-10-27",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000307",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000026",
+    "order_quantity": 285.33,
+    "order_date": "2025-08-28",
+    "delivery_date": "2025-09-09",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000308",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000081",
+    "order_quantity": 166.14,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-11-08",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000309",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000014",
+    "order_quantity": 432.88,
+    "order_date": "2025-07-27",
+    "delivery_date": "2025-08-04",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000310",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000039",
+    "order_quantity": 645.14,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-10-08",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000311",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000081",
+    "order_quantity": 551.0,
+    "order_date": "2025-09-14",
+    "delivery_date": "2025-10-11",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000312",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000048",
+    "order_quantity": 113.53,
+    "order_date": "2025-08-18",
+    "delivery_date": "2025-08-23",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000313",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000009",
+    "order_quantity": 507.31,
+    "order_date": "2025-10-07",
+    "delivery_date": "2025-10-24",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000314",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000090",
+    "order_quantity": 355.45,
+    "order_date": "2025-09-23",
+    "delivery_date": "2025-10-13",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000315",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000046",
+    "order_quantity": 114.87,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-13",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000316",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000044",
+    "order_quantity": 501.29,
+    "order_date": "2025-08-09",
+    "delivery_date": "2025-08-23",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000317",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000069",
+    "order_quantity": 883.43,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-10",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000318",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000073",
+    "order_quantity": 191.72,
+    "order_date": "2025-08-11",
+    "delivery_date": "2025-08-25",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000319",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000087",
+    "order_quantity": 669.89,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-14",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000320",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000001",
+    "order_quantity": 189.71,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-10-02",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000321",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000049",
+    "order_quantity": 126.45,
+    "order_date": "2025-10-20",
+    "delivery_date": "2025-11-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000322",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000033",
+    "order_quantity": 878.6,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-27",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000323",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000072",
+    "order_quantity": 837.3,
+    "order_date": "2025-09-23",
+    "delivery_date": "2025-10-03",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000324",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000033",
+    "order_quantity": 614.98,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-09-26",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000325",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000001",
+    "order_quantity": 652.33,
+    "order_date": "2025-08-06",
+    "delivery_date": "2025-08-29",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000326",
+    "customer_id": "CUST-0011",
+    "material_id": "MAT-000005",
+    "order_quantity": 806.78,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-09-19",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000327",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000087",
+    "order_quantity": 140.9,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-10",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000328",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000093",
+    "order_quantity": 288.82,
+    "order_date": "2025-10-03",
+    "delivery_date": "2025-10-20",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000329",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000062",
+    "order_quantity": 406.18,
+    "order_date": "2025-10-04",
+    "delivery_date": "2025-10-13",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000330",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000032",
+    "order_quantity": 637.08,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-10-24",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000331",
+    "customer_id": "CUST-0004",
+    "material_id": "MAT-000030",
+    "order_quantity": 642.74,
+    "order_date": "2025-08-06",
+    "delivery_date": "2025-08-14",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000332",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000035",
+    "order_quantity": 531.2,
+    "order_date": "2025-08-27",
+    "delivery_date": "2025-09-14",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000333",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000033",
+    "order_quantity": 428.0,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-11-09",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000334",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000001",
+    "order_quantity": 878.79,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-02",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000335",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000070",
+    "order_quantity": 811.68,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-10-05",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000336",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000051",
+    "order_quantity": 609.94,
+    "order_date": "2025-09-10",
+    "delivery_date": "2025-09-20",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000337",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000052",
+    "order_quantity": 648.81,
+    "order_date": "2025-10-14",
+    "delivery_date": "2025-10-28",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000338",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000062",
+    "order_quantity": 825.77,
+    "order_date": "2025-09-21",
+    "delivery_date": "2025-10-03",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000339",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000049",
+    "order_quantity": 836.57,
+    "order_date": "2025-10-21",
+    "delivery_date": "2025-10-25",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000340",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000003",
+    "order_quantity": 950.95,
+    "order_date": "2025-10-12",
+    "delivery_date": "2025-10-21",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000341",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000069",
+    "order_quantity": 272.18,
+    "order_date": "2025-09-11",
+    "delivery_date": "2025-09-25",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000342",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000020",
+    "order_quantity": 845.18,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-15",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000343",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000010",
+    "order_quantity": 76.16,
+    "order_date": "2025-09-12",
+    "delivery_date": "2025-10-09",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000344",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000008",
+    "order_quantity": 126.11,
+    "order_date": "2025-10-16",
+    "delivery_date": "2025-11-06",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000345",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000044",
+    "order_quantity": 456.71,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-17",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000346",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000100",
+    "order_quantity": 696.38,
+    "order_date": "2025-10-01",
+    "delivery_date": "2025-10-23",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000347",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000050",
+    "order_quantity": 484.36,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-19",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000348",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000009",
+    "order_quantity": 960.72,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-08-28",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000349",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000006",
+    "order_quantity": 83.33,
+    "order_date": "2025-08-01",
+    "delivery_date": "2025-08-05",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000350",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000035",
+    "order_quantity": 503.81,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-10-01",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000351",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000038",
+    "order_quantity": 845.8,
+    "order_date": "2025-10-03",
+    "delivery_date": "2025-10-05",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000352",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000095",
+    "order_quantity": 52.5,
+    "order_date": "2025-10-09",
+    "delivery_date": "2025-10-18",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000353",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000076",
+    "order_quantity": 537.5,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-18",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000354",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000049",
+    "order_quantity": 466.35,
+    "order_date": "2025-08-02",
+    "delivery_date": "2025-08-19",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000355",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000077",
+    "order_quantity": 849.68,
+    "order_date": "2025-09-29",
+    "delivery_date": "2025-10-24",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000356",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000024",
+    "order_quantity": 883.22,
+    "order_date": "2025-10-07",
+    "delivery_date": "2025-10-23",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000357",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000014",
+    "order_quantity": 450.85,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-23",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000358",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000053",
+    "order_quantity": 776.02,
+    "order_date": "2025-07-29",
+    "delivery_date": "2025-08-07",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000359",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000004",
+    "order_quantity": 543.17,
+    "order_date": "2025-07-30",
+    "delivery_date": "2025-08-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000360",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000096",
+    "order_quantity": 684.78,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-24",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000361",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000084",
+    "order_quantity": 695.57,
+    "order_date": "2025-10-11",
+    "delivery_date": "2025-10-28",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000362",
+    "customer_id": "CUST-0022",
+    "material_id": "MAT-000076",
+    "order_quantity": 740.34,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-27",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000363",
+    "customer_id": "CUST-0005",
+    "material_id": "MAT-000072",
+    "order_quantity": 773.7,
+    "order_date": "2025-10-15",
+    "delivery_date": "2025-11-07",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000364",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000051",
+    "order_quantity": 791.76,
+    "order_date": "2025-08-28",
+    "delivery_date": "2025-09-26",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000365",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000096",
+    "order_quantity": 637.59,
+    "order_date": "2025-09-16",
+    "delivery_date": "2025-09-29",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000366",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000071",
+    "order_quantity": 653.32,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-07",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000367",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000072",
+    "order_quantity": 463.23,
+    "order_date": "2025-09-06",
+    "delivery_date": "2025-10-06",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000368",
+    "customer_id": "CUST-0043",
+    "material_id": "MAT-000083",
+    "order_quantity": 42.78,
+    "order_date": "2025-08-24",
+    "delivery_date": "2025-09-01",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000369",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000064",
+    "order_quantity": 932.07,
+    "order_date": "2025-10-17",
+    "delivery_date": "2025-11-13",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000370",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000063",
+    "order_quantity": 275.15,
+    "order_date": "2025-08-14",
+    "delivery_date": "2025-09-08",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000371",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000064",
+    "order_quantity": 457.97,
+    "order_date": "2025-09-13",
+    "delivery_date": "2025-09-24",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000372",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000030",
+    "order_quantity": 294.72,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-07",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000373",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000008",
+    "order_quantity": 96.16,
+    "order_date": "2025-09-29",
+    "delivery_date": "2025-10-24",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000374",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000030",
+    "order_quantity": 761.78,
+    "order_date": "2025-10-03",
+    "delivery_date": "2025-10-07",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000375",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000048",
+    "order_quantity": 980.04,
+    "order_date": "2025-08-05",
+    "delivery_date": "2025-08-28",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000376",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000076",
+    "order_quantity": 148.83,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-27",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000377",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000072",
+    "order_quantity": 959.71,
+    "order_date": "2025-08-09",
+    "delivery_date": "2025-08-16",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000378",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000054",
+    "order_quantity": 997.43,
+    "order_date": "2025-08-07",
+    "delivery_date": "2025-08-24",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000379",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000013",
+    "order_quantity": 953.2,
+    "order_date": "2025-08-22",
+    "delivery_date": "2025-08-29",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000380",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000060",
+    "order_quantity": 897.13,
+    "order_date": "2025-08-13",
+    "delivery_date": "2025-08-29",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000381",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000048",
+    "order_quantity": 56.99,
+    "order_date": "2025-07-30",
+    "delivery_date": "2025-08-23",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000382",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000029",
+    "order_quantity": 803.82,
+    "order_date": "2025-07-28",
+    "delivery_date": "2025-08-10",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000383",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000031",
+    "order_quantity": 470.85,
+    "order_date": "2025-08-17",
+    "delivery_date": "2025-09-10",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000384",
+    "customer_id": "CUST-0041",
+    "material_id": "MAT-000023",
+    "order_quantity": 482.05,
+    "order_date": "2025-10-01",
+    "delivery_date": "2025-10-25",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000385",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000047",
+    "order_quantity": 685.92,
+    "order_date": "2025-09-10",
+    "delivery_date": "2025-10-01",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000386",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000046",
+    "order_quantity": 732.76,
+    "order_date": "2025-10-22",
+    "delivery_date": "2025-11-05",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000387",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000088",
+    "order_quantity": 377.71,
+    "order_date": "2025-08-24",
+    "delivery_date": "2025-09-10",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000388",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000076",
+    "order_quantity": 599.76,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-07",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000389",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000041",
+    "order_quantity": 862.77,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-10-08",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000390",
+    "customer_id": "CUST-0036",
+    "material_id": "MAT-000029",
+    "order_quantity": 296.83,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-09-01",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000391",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000048",
+    "order_quantity": 787.67,
+    "order_date": "2025-10-07",
+    "delivery_date": "2025-10-30",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000392",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000036",
+    "order_quantity": 623.22,
+    "order_date": "2025-08-15",
+    "delivery_date": "2025-08-23",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000393",
+    "customer_id": "CUST-0011",
+    "material_id": "MAT-000096",
+    "order_quantity": 629.17,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-05",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000394",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000007",
+    "order_quantity": 980.46,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-10-06",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000395",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000071",
+    "order_quantity": 886.31,
+    "order_date": "2025-10-19",
+    "delivery_date": "2025-11-13",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000396",
+    "customer_id": "CUST-0021",
+    "material_id": "MAT-000087",
+    "order_quantity": 196.07,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-09-17",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000397",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000061",
+    "order_quantity": 676.83,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-09-12",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000398",
+    "customer_id": "CUST-0013",
+    "material_id": "MAT-000035",
+    "order_quantity": 943.3,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-10-29",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000399",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000082",
+    "order_quantity": 790.11,
+    "order_date": "2025-09-14",
+    "delivery_date": "2025-09-28",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000400",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000068",
+    "order_quantity": 212.58,
+    "order_date": "2025-09-07",
+    "delivery_date": "2025-09-14",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000401",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000050",
+    "order_quantity": 557.02,
+    "order_date": "2025-09-29",
+    "delivery_date": "2025-10-15",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000402",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000093",
+    "order_quantity": 510.74,
+    "order_date": "2025-10-09",
+    "delivery_date": "2025-10-25",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000403",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000026",
+    "order_quantity": 328.61,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-10-24",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000404",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000091",
+    "order_quantity": 299.16,
+    "order_date": "2025-10-11",
+    "delivery_date": "2025-10-20",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000405",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000088",
+    "order_quantity": 71.01,
+    "order_date": "2025-10-11",
+    "delivery_date": "2025-10-18",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000406",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000047",
+    "order_quantity": 991.14,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-11-18",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000407",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000046",
+    "order_quantity": 495.35,
+    "order_date": "2025-09-01",
+    "delivery_date": "2025-09-06",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000408",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000018",
+    "order_quantity": 40.66,
+    "order_date": "2025-08-03",
+    "delivery_date": "2025-08-14",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000409",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000075",
+    "order_quantity": 384.42,
+    "order_date": "2025-09-17",
+    "delivery_date": "2025-09-25",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000410",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000060",
+    "order_quantity": 456.86,
+    "order_date": "2025-09-11",
+    "delivery_date": "2025-10-01",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000411",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000087",
+    "order_quantity": 765.98,
+    "order_date": "2025-10-16",
+    "delivery_date": "2025-10-28",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000412",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000088",
+    "order_quantity": 562.53,
+    "order_date": "2025-08-18",
+    "delivery_date": "2025-09-13",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000413",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000029",
+    "order_quantity": 552.89,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-11",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000414",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000058",
+    "order_quantity": 460.52,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-09-27",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000415",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000065",
+    "order_quantity": 10.31,
+    "order_date": "2025-08-24",
+    "delivery_date": "2025-09-08",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000416",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000064",
+    "order_quantity": 6.25,
+    "order_date": "2025-09-04",
+    "delivery_date": "2025-09-28",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000417",
+    "customer_id": "CUST-0031",
+    "material_id": "MAT-000080",
+    "order_quantity": 394.96,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-08-25",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000418",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000098",
+    "order_quantity": 81.84,
+    "order_date": "2025-10-01",
+    "delivery_date": "2025-10-12",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000419",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000094",
+    "order_quantity": 321.3,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-16",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000420",
+    "customer_id": "CUST-0026",
+    "material_id": "MAT-000097",
+    "order_quantity": 828.73,
+    "order_date": "2025-10-06",
+    "delivery_date": "2025-11-03",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000421",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000085",
+    "order_quantity": 564.84,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-13",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000422",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000099",
+    "order_quantity": 63.09,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-08-26",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000423",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000055",
+    "order_quantity": 107.16,
+    "order_date": "2025-09-24",
+    "delivery_date": "2025-09-26",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000424",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000097",
+    "order_quantity": 401.46,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-19",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000425",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000088",
+    "order_quantity": 731.41,
+    "order_date": "2025-09-28",
+    "delivery_date": "2025-10-16",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000426",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000086",
+    "order_quantity": 468.42,
+    "order_date": "2025-09-19",
+    "delivery_date": "2025-09-27",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000427",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000009",
+    "order_quantity": 16.83,
+    "order_date": "2025-08-19",
+    "delivery_date": "2025-08-28",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000428",
+    "customer_id": "CUST-0015",
+    "material_id": "MAT-000019",
+    "order_quantity": 269.45,
+    "order_date": "2025-08-21",
+    "delivery_date": "2025-09-06",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000429",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000022",
+    "order_quantity": 125.34,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-30",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000430",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000031",
+    "order_quantity": 40.73,
+    "order_date": "2025-07-27",
+    "delivery_date": "2025-08-17",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000431",
+    "customer_id": "CUST-0027",
+    "material_id": "MAT-000091",
+    "order_quantity": 797.62,
+    "order_date": "2025-10-01",
+    "delivery_date": "2025-10-14",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000432",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000057",
+    "order_quantity": 101.33,
+    "order_date": "2025-09-30",
+    "delivery_date": "2025-10-16",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000433",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000055",
+    "order_quantity": 35.56,
+    "order_date": "2025-09-25",
+    "delivery_date": "2025-10-13",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000434",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000051",
+    "order_quantity": 480.4,
+    "order_date": "2025-09-06",
+    "delivery_date": "2025-09-13",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000435",
+    "customer_id": "CUST-0019",
+    "material_id": "MAT-000026",
+    "order_quantity": 386.33,
+    "order_date": "2025-10-10",
+    "delivery_date": "2025-11-03",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000436",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000087",
+    "order_quantity": 935.72,
+    "order_date": "2025-09-07",
+    "delivery_date": "2025-10-01",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000437",
+    "customer_id": "CUST-0032",
+    "material_id": "MAT-000083",
+    "order_quantity": 138.26,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-08-15",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000438",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000025",
+    "order_quantity": 527.71,
+    "order_date": "2025-08-01",
+    "delivery_date": "2025-08-12",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000439",
+    "customer_id": "CUST-0040",
+    "material_id": "MAT-000026",
+    "order_quantity": 515.1,
+    "order_date": "2025-08-28",
+    "delivery_date": "2025-09-26",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000440",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000084",
+    "order_quantity": 869.25,
+    "order_date": "2025-07-27",
+    "delivery_date": "2025-08-02",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000441",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000020",
+    "order_quantity": 163.32,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-09-04",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000442",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000002",
+    "order_quantity": 184.17,
+    "order_date": "2025-08-16",
+    "delivery_date": "2025-09-14",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000443",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000075",
+    "order_quantity": 301.34,
+    "order_date": "2025-09-16",
+    "delivery_date": "2025-10-14",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000444",
+    "customer_id": "CUST-0002",
+    "material_id": "MAT-000070",
+    "order_quantity": 15.95,
+    "order_date": "2025-08-24",
+    "delivery_date": "2025-09-17",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000445",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000023",
+    "order_quantity": 779.25,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-09-13",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000446",
+    "customer_id": "CUST-0030",
+    "material_id": "MAT-000094",
+    "order_quantity": 78.74,
+    "order_date": "2025-08-27",
+    "delivery_date": "2025-09-19",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000447",
+    "customer_id": "CUST-0035",
+    "material_id": "MAT-000019",
+    "order_quantity": 353.38,
+    "order_date": "2025-08-20",
+    "delivery_date": "2025-09-12",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000448",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000098",
+    "order_quantity": 770.66,
+    "order_date": "2025-08-20",
+    "delivery_date": "2025-09-16",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000449",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000097",
+    "order_quantity": 128.63,
+    "order_date": "2025-10-09",
+    "delivery_date": "2025-10-20",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000450",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000015",
+    "order_quantity": 794.74,
+    "order_date": "2025-08-25",
+    "delivery_date": "2025-09-06",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000451",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000089",
+    "order_quantity": 171.85,
+    "order_date": "2025-07-30",
+    "delivery_date": "2025-08-19",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000452",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000078",
+    "order_quantity": 46.03,
+    "order_date": "2025-08-26",
+    "delivery_date": "2025-09-19",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000453",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000078",
+    "order_quantity": 650.6,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-18",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000454",
+    "customer_id": "CUST-0037",
+    "material_id": "MAT-000046",
+    "order_quantity": 776.74,
+    "order_date": "2025-10-03",
+    "delivery_date": "2025-10-30",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000455",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000100",
+    "order_quantity": 282.25,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-10-31",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000456",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000073",
+    "order_quantity": 607.29,
+    "order_date": "2025-10-23",
+    "delivery_date": "2025-10-30",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000457",
+    "customer_id": "CUST-0034",
+    "material_id": "MAT-000008",
+    "order_quantity": 30.0,
+    "order_date": "2025-08-30",
+    "delivery_date": "2025-09-11",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000458",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000078",
+    "order_quantity": 132.47,
+    "order_date": "2025-09-15",
+    "delivery_date": "2025-09-28",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000459",
+    "customer_id": "CUST-0017",
+    "material_id": "MAT-000055",
+    "order_quantity": 470.1,
+    "order_date": "2025-08-02",
+    "delivery_date": "2025-08-08",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000460",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000040",
+    "order_quantity": 221.55,
+    "order_date": "2025-08-14",
+    "delivery_date": "2025-09-04",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000461",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000071",
+    "order_quantity": 735.97,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-22",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000462",
+    "customer_id": "CUST-0010",
+    "material_id": "MAT-000074",
+    "order_quantity": 875.43,
+    "order_date": "2025-10-20",
+    "delivery_date": "2025-10-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000463",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000064",
+    "order_quantity": 329.54,
+    "order_date": "2025-09-24",
+    "delivery_date": "2025-10-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000464",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000006",
+    "order_quantity": 335.89,
+    "order_date": "2025-08-14",
+    "delivery_date": "2025-09-02",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000465",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000040",
+    "order_quantity": 548.29,
+    "order_date": "2025-08-11",
+    "delivery_date": "2025-08-29",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000466",
+    "customer_id": "CUST-0047",
+    "material_id": "MAT-000077",
+    "order_quantity": 909.76,
+    "order_date": "2025-08-21",
+    "delivery_date": "2025-09-04",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000467",
+    "customer_id": "CUST-0042",
+    "material_id": "MAT-000046",
+    "order_quantity": 566.49,
+    "order_date": "2025-09-18",
+    "delivery_date": "2025-10-03",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000468",
+    "customer_id": "CUST-0007",
+    "material_id": "MAT-000002",
+    "order_quantity": 551.2,
+    "order_date": "2025-10-20",
+    "delivery_date": "2025-10-24",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000469",
+    "customer_id": "CUST-0028",
+    "material_id": "MAT-000081",
+    "order_quantity": 831.63,
+    "order_date": "2025-09-09",
+    "delivery_date": "2025-10-04",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000470",
+    "customer_id": "CUST-0009",
+    "material_id": "MAT-000100",
+    "order_quantity": 158.0,
+    "order_date": "2025-10-10",
+    "delivery_date": "2025-10-20",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000471",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000081",
+    "order_quantity": 404.01,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-07-30",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000472",
+    "customer_id": "CUST-0018",
+    "material_id": "MAT-000034",
+    "order_quantity": 374.94,
+    "order_date": "2025-08-31",
+    "delivery_date": "2025-09-29",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000473",
+    "customer_id": "CUST-0045",
+    "material_id": "MAT-000013",
+    "order_quantity": 339.27,
+    "order_date": "2025-09-02",
+    "delivery_date": "2025-09-05",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000474",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000068",
+    "order_quantity": 735.3,
+    "order_date": "2025-10-12",
+    "delivery_date": "2025-11-10",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000475",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000032",
+    "order_quantity": 83.62,
+    "order_date": "2025-07-26",
+    "delivery_date": "2025-08-21",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000476",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000097",
+    "order_quantity": 580.87,
+    "order_date": "2025-08-07",
+    "delivery_date": "2025-08-20",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000477",
+    "customer_id": "CUST-0048",
+    "material_id": "MAT-000046",
+    "order_quantity": 207.54,
+    "order_date": "2025-08-27",
+    "delivery_date": "2025-09-12",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000478",
+    "customer_id": "CUST-0003",
+    "material_id": "MAT-000034",
+    "order_quantity": 733.97,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-09-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000479",
+    "customer_id": "CUST-0004",
+    "material_id": "MAT-000092",
+    "order_quantity": 396.87,
+    "order_date": "2025-10-10",
+    "delivery_date": "2025-10-21",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000480",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000050",
+    "order_quantity": 281.17,
+    "order_date": "2025-09-02",
+    "delivery_date": "2025-09-15",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000481",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000094",
+    "order_quantity": 554.4,
+    "order_date": "2025-08-06",
+    "delivery_date": "2025-08-20",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000482",
+    "customer_id": "CUST-0050",
+    "material_id": "MAT-000015",
+    "order_quantity": 941.0,
+    "order_date": "2025-09-03",
+    "delivery_date": "2025-09-18",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000483",
+    "customer_id": "CUST-0049",
+    "material_id": "MAT-000040",
+    "order_quantity": 543.14,
+    "order_date": "2025-08-12",
+    "delivery_date": "2025-08-17",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000484",
+    "customer_id": "CUST-0033",
+    "material_id": "MAT-000059",
+    "order_quantity": 413.78,
+    "order_date": "2025-09-19",
+    "delivery_date": "2025-10-17",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000485",
+    "customer_id": "CUST-0038",
+    "material_id": "MAT-000064",
+    "order_quantity": 600.44,
+    "order_date": "2025-08-29",
+    "delivery_date": "2025-09-18",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000486",
+    "customer_id": "CUST-0020",
+    "material_id": "MAT-000008",
+    "order_quantity": 309.57,
+    "order_date": "2025-08-08",
+    "delivery_date": "2025-08-21",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000487",
+    "customer_id": "CUST-0012",
+    "material_id": "MAT-000026",
+    "order_quantity": 383.57,
+    "order_date": "2025-09-09",
+    "delivery_date": "2025-09-20",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000488",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000083",
+    "order_quantity": 935.95,
+    "order_date": "2025-10-03",
+    "delivery_date": "2025-10-17",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000489",
+    "customer_id": "CUST-0024",
+    "material_id": "MAT-000057",
+    "order_quantity": 168.39,
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-23",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000490",
+    "customer_id": "CUST-0008",
+    "material_id": "MAT-000005",
+    "order_quantity": 981.82,
+    "order_date": "2025-09-27",
+    "delivery_date": "2025-10-27",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000491",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000066",
+    "order_quantity": 515.07,
+    "order_date": "2025-10-18",
+    "delivery_date": "2025-11-10",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000492",
+    "customer_id": "CUST-0025",
+    "material_id": "MAT-000024",
+    "order_quantity": 979.07,
+    "order_date": "2025-10-02",
+    "delivery_date": "2025-10-15",
+    "order_status": "Open",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000493",
+    "customer_id": "CUST-0039",
+    "material_id": "MAT-000077",
+    "order_quantity": 154.28,
+    "order_date": "2025-09-20",
+    "delivery_date": "2025-10-13",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000494",
+    "customer_id": "CUST-0001",
+    "material_id": "MAT-000018",
+    "order_quantity": 807.6,
+    "order_date": "2025-09-08",
+    "delivery_date": "2025-09-23",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000495",
+    "customer_id": "CUST-0029",
+    "material_id": "MAT-000079",
+    "order_quantity": 86.97,
+    "order_date": "2025-08-05",
+    "delivery_date": "2025-08-14",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000496",
+    "customer_id": "CUST-0044",
+    "material_id": "MAT-000081",
+    "order_quantity": 356.33,
+    "order_date": "2025-10-08",
+    "delivery_date": "2025-10-26",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000497",
+    "customer_id": "CUST-0016",
+    "material_id": "MAT-000042",
+    "order_quantity": 896.21,
+    "order_date": "2025-09-24",
+    "delivery_date": "2025-10-11",
+    "order_status": "In Process",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000498",
+    "customer_id": "CUST-0046",
+    "material_id": "MAT-000002",
+    "order_quantity": 207.37,
+    "order_date": "2025-10-16",
+    "delivery_date": "2025-10-18",
+    "order_status": "Shipped",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000499",
+    "customer_id": "CUST-0011",
+    "material_id": "MAT-000097",
+    "order_quantity": 72.98,
+    "order_date": "2025-08-09",
+    "delivery_date": "2025-08-29",
+    "order_status": "Delivered",
+    "source_system": "SAP_S4HANA"
+  },
+  {
+    "order_id": "ORD-000500",
+    "customer_id": "CUST-0014",
+    "material_id": "MAT-000048",
+    "order_quantity": 704.99,
+    "order_date": "2025-08-04",
+    "delivery_date": "2025-08-22",
+    "order_status": "Cancelled",
+    "source_system": "SAP_S4HANA"
+  }
+]
